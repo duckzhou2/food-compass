@@ -15,8 +15,6 @@ FROM node:22-alpine AS runner
 WORKDIR /app
 ENV NODE_ENV=production
 ENV PORT=3000
-COPY --from=builder /app/public ./public
-COPY --from=builder /app/dist/standalone ./
-COPY --from=builder /app/dist/static ./dist/static
+COPY --from=builder /app/dist ./dist
 EXPOSE 3000
-CMD ["node", "server.js"]
+CMD ["node", "dist/server/index.js"]

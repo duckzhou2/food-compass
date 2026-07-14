@@ -1,6 +1,7 @@
 node_modules/
 .next/
 dist/
+.sites-dist-tmp/
 out/
 coverage/
 artifacts/
