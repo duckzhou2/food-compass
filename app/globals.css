@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f8f5ee;
+  --ink: #1d241f;
+  --forest: #173f35;
+  --jade: #176b55;
+  --amber: #e8a54b;
+  --coral: #c96348;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at 8% 3%, rgba(232, 165, 75, 0.11), transparent 24rem),
+    radial-gradient(circle at 94% 16%, rgba(23, 107, 85, 0.09), transparent 27rem),
+    var(--paper);
+}
+
+button,
+input,
+summary {
+  font: inherit;
+}
+
+button,
+a,
+input,
+summary {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: rgba(232, 165, 75, 0.35);
+}
+
+@keyframes result-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(18px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.result-reveal {
+  animation: result-reveal 520ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}

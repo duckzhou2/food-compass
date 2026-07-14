@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-07-13T17:09:59.841Z",
+  "source_file": "../milk_tea_products.json",
+  "supplemental_file": "data/supplemental/records.json",
+  "source_record_count": 61,
+  "supplemental_record_count": 4,
+  "record_count": 65,
+  "note": "派生文件；原始数据未修改。"
+}
