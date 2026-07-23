@@ -2,6 +2,8 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import { TakeoutDataManager } from "@/components/takeout-data-manager";
+import { FilterShell, ModeSwitch } from "@/components/ui/experience-controls";
+import { useReducedMotion } from "@/hooks/use-reduced-motion";
 import { builtinTakeoutMerchants, takeoutCatalog } from "@/lib/data/takeout";
 import { applyTakeoutRecentAvoidance, defaultTakeoutFilters, filterTakeoutMerchants } from "@/lib/takeout/filters";
 import { getTakeoutWheelMerchants, pickBalancedTakeout, pickDifferentTakeoutCategory, pickSameTakeoutCategory } from "@/lib/takeout/random";
@@ -35,16 +37,13 @@ export function TakeoutExperience() {
   const [visibleCount, setVisibleCount] = useState(24);
   const [rotation, setRotation] = useState(0);
   const [spinning, setSpinning] = useState(false);
-  const [reducedMotion, setReducedMotion] = useState(false);
   const [status, setStatus] = useState("");
   const wheelRef = useRef<HTMLCanvasElement>(null);
+  const reducedMotion = useReducedMotion();
 
   useEffect(() => {
-    const media = window.matchMedia("(prefers-reduced-motion: reduce)");
-    const updateMotion = () => setReducedMotion(media.matches);
-    updateMotion(); media.addEventListener("change", updateMotion);
     const timer = window.setTimeout(() => { const loaded = loadTakeoutPersonalData(); setPersonal(loaded.data); setStorageAvailable(loaded.storageAvailable); setHydrated(true); }, 0);
-    return () => { window.clearTimeout(timer); media.removeEventListener("change", updateMotion); };
+    return () => window.clearTimeout(timer);
   }, []);
 
   useEffect(() => {
@@ -105,15 +104,13 @@ export function TakeoutExperience() {
 
   const toggleFavorite = () => { if (selected) persist({ ...personal, favorites: favorites.has(selected.id) ? personal.favorites.filter((id) => id !== selected.id) : [...personal.favorites, selected.id] }); };
   const sessionExclude = () => { if (selected) { persist({ ...personal, sessionExclusions: [...new Set([...personal.sessionExclusions, selected.id])] }, `本轮已排除“${selected.name}”。`); setSelected(null); } };
-  const permanentExclude = () => { if (selected) { persist({ ...personal, permanentExclusions: [...new Set([...personal.permanentExclusions, selected.id])] }, "已永久排除，可在“管理我的外卖”中恢复。"); setSelected(null); } };
+  const permanentExclude = () => { if (selected) { persist({ ...personal, permanentExclusions: [...new Set([...personal.permanentExclusions, selected.id])] }, "已永久排除，可在“管理我的北大外卖”中恢复。"); setSelected(null); } };
   const result = selected ? <TakeoutResultCard merchant={selected} category={categoryById.get(selected.categoryId)} area={areaById.get(selected.areaId)} favorite={favorites.has(selected.id)} confirmed={confirmedId === selected.id} status={status} onConfirm={confirm} onAgain={spin} onSessionExclude={sessionExclude} onSame={() => { const merchant = pickSameTakeoutCategory(recentPool.merchants, selected); if (merchant) reveal(merchant); }} onDifferent={() => { const merchant = pickDifferentTakeoutCategory(recentPool.merchants, selected); if (merchant) reveal(merchant); }} onFavorite={toggleFavorite} onPermanentExclude={permanentExclude} /> : null;
 
   return <>
     {!storageAvailable && <p className="mb-5 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900" role="status">浏览器存储当前不可用；本次仍可使用，但刷新后个人数据可能无法保留。</p>}
     <div className="grid items-start gap-6 lg:grid-cols-[310px_minmax(0,1fr)]">
-      <aside className="rounded-[1.75rem] border border-stone-200 bg-white/75 p-4 lg:sticky lg:top-24">
-        <button type="button" aria-expanded={filtersOpen} onClick={() => setFiltersOpen((value) => !value)} className="flex min-h-11 w-full items-center justify-between rounded-xl px-2 text-left font-semibold text-[#173f35] lg:hidden"><span>筛选条件</span><span>{filtersOpen ? "收起" : "展开"}</span></button>
-        <div className={`${filtersOpen ? "block" : "hidden"} lg:block`}>
+      <FilterShell open={filtersOpen} onToggle={() => setFiltersOpen((value) => !value)}>
           <label className="block"><span className="text-sm font-semibold text-stone-700">搜索商户</span><input aria-label="外卖商户搜索" value={filters.query} onChange={(event) => changeFilters({ query: event.target.value })} placeholder="搜索店铺、菜系、商圈或地址" className="mt-2 min-h-11 w-full rounded-xl border border-stone-300 bg-white px-3 text-sm" /></label>
           <FilterSection title="快速选择"><div className="flex flex-wrap gap-2">{quickPresets.map(([id, label, preset]) => <FilterButton key={id} active={isPresetActive(filters, preset)} onClick={() => { const active = isPresetActive(filters, preset); setFilters({ ...defaultTakeoutFilters, ...(active ? {} : preset) }); resetSelection(); }}>{label}</FilterButton>)}</div></FilterSection>
           <FilterSection title="商户类型"><PillGroup items={categories} selected={filters.categoryIds} onChange={(categoryIds) => changeFilters({ categoryIds })} /></FilterSection>
@@ -122,11 +119,10 @@ export function TakeoutExperience() {
           <details className="mt-5 border-t border-stone-200 pt-4"><summary className="min-h-11 cursor-pointer py-2 text-sm font-semibold text-[#173f35]">更多条件</summary><FilterSection title="信息可信度"><PillGroup items={evidenceLevels} selected={filters.evidenceLevels} onChange={(values) => changeFilters({ evidenceLevels: values as ("A" | "B")[] })} /></FilterSection><label className="mt-3 flex min-h-11 items-center gap-3 text-sm"><input type="checkbox" checked={filters.onlyFavorites} onChange={(event) => changeFilters({ onlyFavorites: event.target.checked })} className="size-4 accent-[#176b55]" />只看收藏</label><label className="flex min-h-11 items-center gap-3 text-sm"><input type="checkbox" checked={personal.settings.avoidRecent} onChange={(event) => persist({ ...personal, settings: { avoidRecent: event.target.checked } })} className="size-4 accent-[#176b55]" />避免最近三次重复</label><label className="flex min-h-11 items-center gap-3 text-sm"><input type="checkbox" checked={filters.excludeEstimatedDistance} onChange={(event) => changeFilters({ excludeEstimatedDistance: event.target.checked })} className="size-4 accent-[#176b55]" />排除商圈中心估算距离</label></details>
           <div className="mt-5 grid gap-2"><button type="button" onClick={() => { setFilters({ ...defaultTakeoutFilters }); resetSelection(); }} className="min-h-11 rounded-xl border border-stone-300 bg-white text-sm font-semibold text-stone-700">清空筛选</button>{personal.sessionExclusions.length > 0 && <button type="button" onClick={() => persist({ ...personal, sessionExclusions: [] }, "已恢复本轮排除。") } className="min-h-11 rounded-xl border border-amber-300 bg-amber-50 text-sm font-semibold text-amber-900">恢复本轮排除（{personal.sessionExclusions.length}）</button>}</div>
           <p className="mt-4 border-t border-stone-200 pt-4 text-[11px] leading-5 text-stone-500">公开候选库不代表当前可配送、营业或在售；请在外卖平台确认。</p>
-        </div>
-      </aside>
+      </FilterShell>
 
       <main className="min-w-0">
-        <div className="flex flex-wrap items-center justify-between gap-3"><div className="inline-grid grid-cols-2 rounded-2xl bg-stone-200/70 p-1"><button type="button" aria-pressed={mode === "browse"} onClick={() => setMode("browse")} className={`min-h-11 rounded-xl px-4 text-sm font-semibold ${mode === "browse" ? "bg-white text-[#173f35] shadow-sm" : "text-stone-500"}`}>浏览商户</button><button type="button" aria-pressed={mode === "wheel"} onClick={() => setMode("wheel")} className={`min-h-11 rounded-xl px-4 text-sm font-semibold ${mode === "wheel" ? "bg-white text-[#173f35] shadow-sm" : "text-stone-500"}`}>转盘抽一家</button></div><button type="button" onClick={() => setManagerOpen(true)} className="min-h-11 rounded-xl border border-stone-300 bg-white px-4 text-sm font-semibold text-[#173f35]">管理我的外卖</button></div>
+        <div className="flex flex-wrap items-center justify-between gap-3"><ModeSwitch value={mode} onChange={setMode} options={[{ value: "browse", label: "浏览商户" }, { value: "wheel", label: "转盘抽一家" }]} /><button type="button" onClick={() => setManagerOpen(true)} className="min-h-11 rounded-xl border border-stone-300 bg-white px-4 text-sm font-semibold text-[#173f35]">管理我的北大外卖</button></div>
         <div className="mt-4 flex flex-wrap items-center justify-between gap-3"><p className="text-sm text-stone-500">当前有 <strong className="font-mono text-lg text-[#173f35]">{mode === "browse" ? browseMerchants.length : recentPool.merchants.length}</strong> 家候选，覆盖 {activeCategories.length} 个类型。</p>{mode === "browse" && <label className="text-sm text-stone-500">排序 <select aria-label="外卖商户排序" value={filters.sort} onChange={(event) => changeFilters({ sort: event.target.value as TakeoutFilters["sort"] })} className="ml-2 min-h-11 rounded-xl border border-stone-300 bg-white px-3 text-stone-700"><option value="source">推荐顺序</option><option value="distance">距离由近到远</option><option value="name">店名</option><option value="category">按类型</option></select></label>}</div>
 
         {mode === "browse" ? <div className="mt-5">{result && <div className="mb-6">{result}</div>}{browseMerchants.length ? <><section aria-label="外卖商户列表" className="grid gap-3 sm:grid-cols-2">{browseMerchants.slice(0, visibleCount).map((merchant) => <button key={merchant.id} type="button" onClick={() => reveal(merchant)} className={`min-w-0 rounded-3xl border bg-white p-5 text-left transition hover:-translate-y-0.5 hover:border-[#176b55] ${selected?.id === merchant.id ? "border-[#176b55] shadow-md" : "border-stone-200"}`}><span className="text-xs font-semibold tracking-[.1em] text-[#176b55]">{categoryById.get(merchant.categoryId)?.name}{merchant.source === "custom" ? " · 自定义" : ""}</span><span className="mt-2 block break-words font-serif text-xl font-bold text-stone-900">{merchant.name}</span><span className="mt-3 block text-xs leading-5 text-stone-500">{merchant.detailCategory} · {areaById.get(merchant.areaId)?.shortLabel ?? areaById.get(merchant.areaId)?.name}<br />{merchant.location.distanceDisplay} · 配送待平台确认</span></button>)}</section>{visibleCount < browseMerchants.length && <button type="button" onClick={() => setVisibleCount((value) => value + 24)} className="mt-5 min-h-11 w-full rounded-xl border border-stone-300 bg-white text-sm font-semibold text-stone-700">加载更多（还剩 {browseMerchants.length - visibleCount} 家）</button>}</> : <EmptyState onReset={() => changeFilters({ ...defaultTakeoutFilters })} />}</div> :

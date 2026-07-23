@@ -2,6 +2,8 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import { MealDataManager } from "@/components/meal-data-manager";
+import { FilterShell, ModeSwitch } from "@/components/ui/experience-controls";
+import { useReducedMotion } from "@/hooks/use-reduced-motion";
 import { builtinMealFoods } from "@/lib/data/meals";
 import {
   defaultMealFilters,
@@ -63,15 +65,11 @@ export function MealExperience() {
   const [visibleCount, setVisibleCount] = useState(24);
   const [isSpinning, setIsSpinning] = useState(false);
   const [rotation, setRotation] = useState(0);
-  const [reducedMotion, setReducedMotion] = useState(false);
   const [status, setStatus] = useState("");
   const wheelRef = useRef<HTMLCanvasElement>(null);
+  const reducedMotion = useReducedMotion();
 
   useEffect(() => {
-    const media = window.matchMedia("(prefers-reduced-motion: reduce)");
-    const update = () => setReducedMotion(media.matches);
-    update();
-    media.addEventListener("change", update);
     const timer = window.setTimeout(() => {
       const loaded = loadMealPersonalData();
       setPersonal(loaded.data);
@@ -80,7 +78,6 @@ export function MealExperience() {
     }, 0);
     return () => {
       window.clearTimeout(timer);
-      media.removeEventListener("change", update);
     };
   }, []);
 
@@ -243,9 +240,7 @@ export function MealExperience() {
     <>
       {!storageAvailable && <p className="mb-5 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900" role="status">浏览器存储当前不可用；本次操作仍可继续，但刷新后可能无法保留。</p>}
       <div className="grid items-start gap-6 lg:grid-cols-[310px_minmax(0,1fr)]">
-        <aside className="rounded-[1.75rem] border border-stone-200 bg-white/75 p-4 lg:sticky lg:top-24">
-          <button type="button" aria-expanded={filtersOpen} onClick={() => setFiltersOpen((value) => !value)} className="flex min-h-11 w-full items-center justify-between rounded-xl px-2 text-left font-semibold text-[#173f35] lg:hidden"><span>筛选条件</span><span>{filtersOpen ? "收起" : "展开"}</span></button>
-          <div className={`${filtersOpen ? "block" : "hidden"} lg:block`}>
+        <FilterShell open={filtersOpen} onToggle={() => setFiltersOpen((value) => !value)}>
             <label className="block"><span className="text-sm font-semibold text-stone-700">搜索食物</span><input aria-label="食物名称搜索" value={filters.query} onChange={(event) => changeFilters({ query: event.target.value })} placeholder="例如：牛肉面" className="mt-2 min-h-11 w-full rounded-xl border border-stone-300 bg-white px-3 text-sm" /></label>
             <FilterSection title="快速选择"><div className="flex flex-wrap gap-2">{mealPresets.map((preset) => <FilterButton key={preset.id} active={isPresetActive(filters, preset.id)} onClick={() => applyPreset(preset.id)}>{preset.label}</FilterButton>)}</div></FilterSection>
             <FilterSection title="主分类"><div className="mb-2"><FilterButton active={filters.categoryIds.length === mealCategories.length} onClick={() => changeFilters({ categoryIds: filters.categoryIds.length === mealCategories.length ? [] : mealCategories.map((category) => category.id) })}>{filters.categoryIds.length === mealCategories.length ? "取消全选" : "一键全选"}</FilterButton></div><PillGroup values={mealCategories.map((item) => item.id)} selected={filters.categoryIds} label={(value) => getMealCategory(value).name} onChange={(categoryIds) => changeFilters({ categoryIds })} /></FilterSection>
@@ -261,12 +256,11 @@ export function MealExperience() {
               <label className="flex min-h-11 items-center gap-3 text-sm"><input type="checkbox" checked={personal.settings.avoidRecent} onChange={(event) => setPersonalAndStatus({ ...personal, settings: { avoidRecent: event.target.checked } })} className="size-4 accent-[#176b55]" />避免最近三次重复</label>
             </details>
             <div className="mt-5 grid gap-2"><button type="button" onClick={() => { setFilters({ ...defaultMealFilters }); setSelected(null); setProposedCategoryId(null); setLockedCategoryId(null); }} className="min-h-11 rounded-xl border border-stone-300 bg-white text-sm font-semibold text-stone-700">清空筛选</button>{personal.sessionExclusions.length > 0 && <button type="button" onClick={() => setPersonalAndStatus({ ...personal, sessionExclusions: [] })} className="min-h-11 rounded-xl border border-amber-300 bg-amber-50 text-sm font-semibold text-amber-900">恢复本轮排除（{personal.sessionExclusions.length}）</button>}</div>
-          </div>
-        </aside>
+        </FilterShell>
 
         <main className="min-w-0">
           <div className="flex flex-wrap items-center justify-between gap-3">
-            <div className="inline-grid grid-cols-2 rounded-2xl bg-stone-200/70 p-1"><button type="button" aria-pressed={mode === "browse"} onClick={() => setMode("browse")} className={`min-h-11 rounded-xl px-4 text-sm font-semibold ${mode === "browse" ? "bg-white text-[#173f35] shadow-sm" : "text-stone-500"}`}>浏览食物</button><button type="button" aria-pressed={mode === "wheel"} onClick={() => setMode("wheel")} className={`min-h-11 rounded-xl px-4 text-sm font-semibold ${mode === "wheel" ? "bg-white text-[#173f35] shadow-sm" : "text-stone-500"}`}>转盘抽一个</button></div>
+            <ModeSwitch value={mode} onChange={setMode} options={[{ value: "browse", label: "浏览食物" }, { value: "wheel", label: "转盘抽一个" }]} />
             <button type="button" onClick={() => { setManagerEditId(null); setManagerOpen(true); }} className="min-h-11 rounded-xl border border-stone-300 bg-white px-4 text-sm font-semibold text-[#173f35]">管理我的食物</button>
           </div>
           <div className="mt-4 flex flex-wrap items-center justify-between gap-3"><p className="text-sm text-stone-500">当前有 <strong className="font-mono text-lg text-[#173f35]">{activeFoods.length}</strong> 个选项，覆盖 {activeCategories.length} 个分类。</p>{mode === "browse" && <label className="text-sm text-stone-500">排序 <select aria-label="食物排序" value={filters.sort} onChange={(event) => changeFilters({ sort: event.target.value as MealFilters["sort"] })} className="ml-2 min-h-11 rounded-xl border border-stone-300 bg-white px-3 text-stone-700"><option value="source">推荐顺序</option><option value="name">名称</option><option value="price">价格由低到高</option><option value="time">用餐时间由快到慢</option><option value="recent">最近添加</option></select></label>}</div>

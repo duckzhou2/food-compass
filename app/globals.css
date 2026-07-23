@@ -1,12 +1,18 @@
 @import "tailwindcss";
 
 :root {
-  --paper: #f8f5ee;
+  --paper: #fffaf4;
+  --paper-deep: #f4eee4;
   --ink: #1d241f;
-  --forest: #173f35;
-  --jade: #176b55;
-  --amber: #e8a54b;
-  --coral: #c96348;
+  --forest: #0e4d40;
+  --forest-deep: #083b33;
+  --jade: #178267;
+  --mint: #dff4e8;
+  --amber: #f2a72f;
+  --amber-dark: #9a5c00;
+  --coral: #ef6246;
+  --gold-light: #f8d97c;
+  --line: #e8e0d6;
 }
 
 * {
@@ -20,13 +26,15 @@ html {
 body {
   margin: 0;
   background:
-    radial-gradient(circle at 8% 3%, rgba(232, 165, 75, 0.11), transparent 24rem),
-    radial-gradient(circle at 94% 16%, rgba(23, 107, 85, 0.09), transparent 27rem),
+    radial-gradient(circle at 7% 2%, rgba(242, 167, 47, 0.12), transparent 25rem),
+    radial-gradient(circle at 94% 14%, rgba(23, 130, 103, 0.1), transparent 30rem),
     var(--paper);
+  color: var(--ink);
 }
 
 button,
 input,
+select,
 summary {
   font: inherit;
 }
@@ -34,8 +42,37 @@ summary {
 button,
 a,
 input,
+select,
 summary {
   -webkit-tap-highlight-color: transparent;
+}
+
+button,
+a {
+  transition-duration: 180ms;
+}
+
+:focus-visible {
+  outline: 3px solid rgba(242, 167, 47, 0.55);
+  outline-offset: 3px;
+}
+
+.page-intro {
+  position: relative;
+  overflow: clip;
+}
+
+.page-intro::after {
+  position: absolute;
+  top: -2rem;
+  right: -10rem;
+  width: 24rem;
+  height: 12rem;
+  border-radius: 999px;
+  background: radial-gradient(circle, rgba(223, 244, 232, 0.8), transparent 70%);
+  content: "";
+  pointer-events: none;
+  z-index: -1;
 }
 
 ::selection {

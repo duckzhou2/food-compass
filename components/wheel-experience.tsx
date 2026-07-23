@@ -3,17 +3,18 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { ProductResultCard } from "@/components/product-result-card";
 import { MilkTeaDataManager } from "@/components/milk-tea-data-manager";
-import { getMilkTeaBrand, milkTeaBrands } from "@/lib/data/milk-tea";
+import { MilkTeaFilterPanel } from "@/components/milk-tea/milk-tea-filter-panel";
+import { MilkTeaProductBrowser } from "@/components/milk-tea/milk-tea-product-browser";
+import { ModeSwitch } from "@/components/ui/experience-controls";
+import { useReducedMotion } from "@/hooks/use-reduced-motion";
+import { getMilkTeaBrand } from "@/lib/data/milk-tea";
 import {
   defaultMilkTeaFilters,
   filterMilkTeaProducts,
-  getDefaultCalories,
   isWheelEligibleProduct,
   type CalorieBand,
   type MilkTeaProductFilters,
-  type ProductSort,
 } from "@/lib/milk-tea/filters";
-import { formatCalorieValue } from "@/lib/milk-tea/calories";
 import { pickRandom } from "@/lib/random/pick-random";
 import {
   applyRecentMilkTeaAvoidance,
@@ -26,7 +27,6 @@ import {
   saveMilkTeaPersonalData,
 } from "@/lib/milk-tea/storage";
 import {
-  milkTeaDisplayCategories,
   type MilkTeaConfirmedSelection,
   type MilkTeaHistoryEntry,
   type MilkTeaPersonalData,
@@ -36,13 +36,6 @@ import {
 } from "@/types/milk-tea";
 
 const palette = ["#173f35", "#e8a54b", "#c96348", "#8eb7a7", "#945d63", "#d9c88c", "#49737a", "#b86d74"];
-
-const calorieBands: Array<{ value: CalorieBand; label: string }> = [
-  { value: "under100", label: "100 kcal 以下" },
-  { value: "100to199", label: "100–199 kcal" },
-  { value: "200to299", label: "200–299 kcal" },
-  { value: "over300", label: "300 kcal 及以上" },
-];
 
 function pointOnCircle(angle: number, radius = 49) {
   const radians = ((angle - 90) * Math.PI) / 180;
@@ -64,7 +57,7 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
   const [isSpinning, setIsSpinning] = useState(false);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [rotation, setRotation] = useState(0);
-  const [reducedMotion, setReducedMotion] = useState(false);
+  const [visibleCount, setVisibleCount] = useState(24);
   const [onlyFavorites, setOnlyFavorites] = useState(false);
   const [personal, setPersonal] = useState<MilkTeaPersonalData>({
     ...defaultMilkTeaPersonalData,
@@ -83,6 +76,7 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
   const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const resultPanelRef = useRef<HTMLDivElement | null>(null);
   const personalTouchedRef = useRef(false);
+  const reducedMotion = useReducedMotion();
   const changePersonal = (
     update: MilkTeaPersonalData | ((current: MilkTeaPersonalData) => MilkTeaPersonalData),
   ) => {
@@ -132,25 +126,19 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
     }
   }, [personal, personalHydrated]);
 
-  useEffect(() => {
-    const media = window.matchMedia("(prefers-reduced-motion: reduce)");
-    const update = () => setReducedMotion(media.matches);
-    update();
-    media.addEventListener("change", update);
-    return () => media.removeEventListener("change", update);
-  }, []);
-
   useEffect(() => () => {
     if (timeoutRef.current) clearTimeout(timeoutRef.current);
   }, []);
 
   const updateFilter = <K extends keyof MilkTeaProductFilters>(key: K, value: MilkTeaProductFilters[K]) => {
     setSelected(null);
+    setVisibleCount(24);
     setFilters((current) => ({ ...current, [key]: value }));
   };
 
   const toggleBrand = (brandId: MilkTeaBrandId) => {
     setSelected(null);
+    setVisibleCount(24);
     setFilters((current) => ({
       ...current,
       brandIds: current.brandIds.includes(brandId)
@@ -161,6 +149,7 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
 
   const toggleCategory = (category: MilkTeaDisplayCategory) => {
     setSelected(null);
+    setVisibleCount(24);
     setFilters((current) => ({
       ...current,
       categories: current.categories.includes(category)
@@ -171,6 +160,7 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
 
   const toggleCalorieBand = (band: CalorieBand) => {
     setSelected(null);
+    setVisibleCount(24);
     setFilters((current) => ({
       ...current,
       calorieBands: current.calorieBands.includes(band)
@@ -277,76 +267,39 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
   return (
     <div className="space-y-8">
       <div className="grid items-start gap-6 lg:grid-cols-[310px_minmax(0,1fr)]">
-        <aside className="h-fit min-w-0 rounded-[1.75rem] border border-stone-200 bg-white/75 p-4 lg:sticky lg:top-24">
-          <button type="button" aria-expanded={filtersOpen} onClick={() => setFiltersOpen((open) => !open)} className="flex min-h-11 w-full items-center justify-between rounded-xl px-2 text-left font-semibold text-[#173f35] lg:hidden"><span>筛选条件</span><span>{filtersOpen ? "收起" : "展开"}</span></button>
-
-          <fieldset disabled={isSpinning} className={`${filtersOpen ? "block" : "hidden"} space-y-6 disabled:opacity-60 lg:block`}>
-            <div>
-              <label htmlFor="product-search" className="text-sm font-semibold text-stone-800">产品名称搜索</label>
-              <input id="product-search" value={filters.query} onChange={(event) => updateFilter("query", event.target.value)} placeholder="输入饮品名称" className="mt-2 w-full rounded-xl border border-stone-200 bg-[#fbfaf6] px-3 py-2.5 text-sm outline-none focus:border-[#176b55] focus:ring-2 focus:ring-emerald-100" />
-            </div>
-
-            <fieldset>
-              <legend className="text-sm font-semibold text-stone-800">品牌</legend>
-              <div className="mt-2 flex flex-wrap gap-2">
-                <button type="button" aria-pressed={filters.brandIds.length === 0} onClick={() => updateFilter("brandIds", [])} className={`min-h-11 rounded-xl border px-3 py-2 text-xs font-semibold ${filters.brandIds.length === 0 ? "border-[#173f35] bg-[#173f35] text-white" : "border-stone-200 bg-white text-stone-600"}`}>全部品牌</button>
-                {milkTeaBrands.map((brand) => (
-                  <button key={brand.brandId} type="button" aria-pressed={filters.brandIds.includes(brand.brandId)} onClick={() => toggleBrand(brand.brandId)} className={`min-h-11 rounded-xl border px-3 py-2 text-xs font-semibold ${filters.brandIds.includes(brand.brandId) ? "border-[#173f35] bg-[#173f35] text-white" : "border-stone-200 bg-white text-stone-600"}`}>{brand.brandName}</button>
-                ))}
-              </div>
-            </fieldset>
-
-            <fieldset>
-              <legend className="text-sm font-semibold text-stone-800">分类</legend>
-              <div className="mt-2 grid grid-cols-2 gap-2">
-                <button type="button" aria-pressed={filters.categories.length === 0} onClick={() => updateFilter("categories", [])} className={`min-h-11 rounded-xl border px-3 py-2 text-left text-xs font-semibold ${filters.categories.length === 0 ? "border-[#176b55] bg-emerald-50 text-[#176b55]" : "border-stone-200 bg-white text-stone-600"}`}>全部分类</button>
-                {milkTeaDisplayCategories.map((category) => (
-                  <button key={category} type="button" aria-pressed={filters.categories.includes(category)} onClick={() => toggleCategory(category)} className={`min-h-11 rounded-xl border px-3 py-2 text-left text-xs font-semibold ${filters.categories.includes(category) ? "border-[#176b55] bg-emerald-50 text-[#176b55]" : "border-stone-200 bg-white text-stone-600"}`}>{category}</button>
-                ))}
-              </div>
-            </fieldset>
-
-            <fieldset>
-              <legend className="text-sm font-semibold text-stone-800">默认规格热量</legend>
-              <div className="mt-2 grid grid-cols-2 gap-2">
-                <button type="button" aria-pressed={filters.calorieBands.length === 0} onClick={() => updateFilter("calorieBands", [])} className={`min-h-11 rounded-xl border px-3 py-2 text-left text-xs font-semibold ${filters.calorieBands.length === 0 ? "border-[#176b55] bg-emerald-50 text-[#176b55]" : "border-stone-200 bg-white text-stone-600"}`}>全部热量</button>
-                {calorieBands.map((band) => (
-                  <button key={band.value} type="button" aria-pressed={filters.calorieBands.includes(band.value)} onClick={() => toggleCalorieBand(band.value)} className={`min-h-11 rounded-xl border px-3 py-2 text-left text-xs font-semibold ${filters.calorieBands.includes(band.value) ? "border-[#176b55] bg-emerald-50 text-[#176b55]" : "border-stone-200 bg-white text-stone-600"}`}>{band.label}</button>
-                ))}
-              </div>
-            </fieldset>
-
-            <div>
-              <label htmlFor="product-sort" className="text-sm font-semibold text-stone-800">排序</label>
-              <select id="product-sort" value={filters.sort} onChange={(event) => updateFilter("sort", event.target.value as ProductSort)} className="mt-2 min-h-11 w-full rounded-xl border border-stone-200 bg-white px-3 text-sm text-stone-700">
-                <option value="source">原表顺序</option>
-                <option value="caloriesAsc">默认热量从低到高</option>
-                <option value="caloriesDesc">默认热量从高到低</option>
-                <option value="name">产品名称</option>
-              </select>
-            </div>
-
-            <details className="rounded-2xl border border-stone-200 bg-white p-4">
-              <summary className="min-h-11 cursor-pointer py-2 text-sm font-semibold text-stone-800">更多条件</summary>
-              <div className="mt-3 space-y-3">
-                <label className="flex min-h-11 items-center gap-3 text-sm text-stone-700"><input type="checkbox" checked={onlyFavorites} onChange={(event) => { setOnlyFavorites(event.target.checked); setSelected(null); }} className="size-4 accent-[#176b55]" />只看收藏</label>
-                <label className="flex min-h-11 items-center gap-3 text-sm text-stone-700"><input type="checkbox" checked={personal.settings.avoidRecent} onChange={(event) => changePersonal((current) => ({ ...current, settings: { avoidRecent: event.target.checked } }))} className="size-4 accent-[#176b55]" />避免最近三次重复</label>
-                <button type="button" disabled={personal.sessionExclusions.length === 0} onClick={() => changePersonal((current) => ({ ...current, sessionExclusions: [] }))} className="min-h-11 w-full rounded-xl border border-stone-300 px-3 text-sm disabled:opacity-40">恢复本轮排除（{personal.sessionExclusions.length}）</button>
-              </div>
-            </details>
-
-            <button type="button" disabled={isSpinning} onClick={() => { setFilters({ ...defaultMilkTeaFilters }); setOnlyFavorites(false); setSelected(null); }} className="min-h-11 w-full rounded-xl border border-stone-300 bg-white text-sm font-semibold text-stone-700 disabled:opacity-50">清空筛选</button>
-          </fieldset>
-
+        <div>
+          <MilkTeaFilterPanel
+            open={filtersOpen}
+            onToggleOpen={() => setFiltersOpen((open) => !open)}
+            filters={filters}
+            onUpdate={updateFilter}
+            onToggleBrand={toggleBrand}
+            onToggleCategory={toggleCategory}
+            onToggleCalorieBand={toggleCalorieBand}
+            onlyFavorites={onlyFavorites}
+            onOnlyFavoritesChange={(value) => {
+              setOnlyFavorites(value);
+              setSelected(null);
+              setVisibleCount(24);
+            }}
+            avoidRecent={personal.settings.avoidRecent}
+            onAvoidRecentChange={(value) => changePersonal((current) => ({ ...current, settings: { avoidRecent: value } }))}
+            exclusionCount={personal.sessionExclusions.length}
+            onRestoreExclusions={() => changePersonal((current) => ({ ...current, sessionExclusions: [] }))}
+            disabled={isSpinning}
+            onReset={() => {
+              setFilters({ ...defaultMilkTeaFilters });
+              setOnlyFavorites(false);
+              setSelected(null);
+              setVisibleCount(24);
+            }}
+          />
           {!storageAvailable && <p className="mt-4 rounded-xl bg-amber-50 px-3 py-2 text-xs leading-5 text-amber-900" role="status">浏览器存储不可用，本次仍可使用，但刷新后个人数据不会保留。</p>}
-        </aside>
+        </div>
 
         <main className="flex min-w-0 flex-col">
           <div className="order-1 flex flex-wrap items-center justify-between gap-3" aria-label="选择方式">
-            <div className="inline-grid grid-cols-2 rounded-2xl bg-stone-200/70 p-1">
-              <button type="button" aria-pressed={mode === "products"} onClick={() => setMode("products")} className={`min-h-11 rounded-xl px-4 text-sm font-semibold ${mode === "products" ? "bg-white text-[#173f35] shadow-sm" : "text-stone-500"}`}>浏览产品</button>
-              <button type="button" aria-pressed={mode === "wheel"} onClick={() => setMode("wheel")} className={`min-h-11 rounded-xl px-4 text-sm font-semibold ${mode === "wheel" ? "bg-white text-[#173f35] shadow-sm" : "text-stone-500"}`}>转盘抽一杯</button>
-            </div>
+            <ModeSwitch value={mode} onChange={setMode} options={[{ value: "products", label: "浏览产品" }, { value: "wheel", label: "转盘抽一杯" }]} />
             <button type="button" onClick={() => setManagerOpen(true)} className="min-h-11 rounded-xl border border-stone-300 bg-white px-4 text-sm font-semibold text-[#173f35]">管理我的奶茶</button>
           </div>
 
@@ -385,28 +338,16 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
 
           <div className="order-4">
             {mode === "products" ? (
-              filteredProducts.length > 0 ? (
-                <section className="mt-5 max-h-[720px] overflow-y-auto overscroll-contain rounded-[2rem] border border-stone-200 bg-white/60 p-3 sm:p-4" aria-label="产品列表">
-                <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-                  {filteredProducts.map((product) => {
-                    const calories = getDefaultCalories(product);
-                    const isSelected = selected?.productId === product.productId;
-                    return (
-                      <button key={product.productId} type="button" aria-pressed={isSelected} onClick={() => selectProduct(product)} className={`min-w-0 rounded-2xl border p-4 text-left transition ${isSelected ? "border-[#176b55] bg-emerald-50 shadow-sm" : "border-stone-200 bg-white hover:-translate-y-0.5 hover:border-stone-400"}`}>
-                        <span className="flex items-start justify-between gap-2 text-xs font-semibold text-[#176b55]"><span>{product.brandName} · {product.displayCategory}</span>{personal.favorites.includes(product.productId) && <span aria-label="已收藏" title="已收藏">★</span>}</span>
-                        <span className="mt-2 block break-words font-serif text-lg font-bold leading-6 text-stone-900">{product.productName}</span>
-                        <span className="mt-3 block font-mono text-sm font-semibold text-[#c96348]">{formatCalorieValue(calories)}</span>
-                        <span className={`mt-1 block text-xs ${product.dataStatus === "needs_review" ? "font-semibold text-amber-700" : "text-stone-400"}`}>{product.dataStatus === "detailed" ? "可选精细规格" : product.dataStatus === "missing" ? "暂无可靠参考热量" : product.dataStatus === "needs_review" ? "待核验，不参与热量筛选和默认转盘" : "单一参考规格"}</span>
-                      </button>
-                    );
-                  })}
-                </div>
-              </section>
-            ) : (
-              <EmptyState />
-            )
+              <MilkTeaProductBrowser
+                products={filteredProducts}
+                selectedId={selected?.productId}
+                favoriteIds={personal.favorites}
+                visibleCount={visibleCount}
+                onSelect={selectProduct}
+                onLoadMore={() => setVisibleCount((count) => count + 24)}
+              />
             ) : wheelCandidates.length > 0 ? (
-              <section className="mt-5 rounded-[2.5rem] bg-[#efe9dc] px-3 py-8 text-center sm:px-8 sm:py-12">
+              <section className="mt-5 rounded-[2.5rem] bg-[var(--paper-deep)] px-3 py-8 text-center shadow-[inset_0_0_0_1px_rgba(255,255,255,.55)] sm:px-8 sm:py-12">
               <div className="relative mx-auto aspect-square w-full max-w-[540px]">
                 <div className="absolute left-1/2 top-[-12px] z-20 h-0 w-0 -translate-x-1/2 border-x-[16px] border-t-[30px] border-x-transparent border-t-[#c96348] drop-shadow" aria-hidden="true" />
                 <svg viewBox="0 0 100 100" role="img" aria-label={`从 ${wheelCandidates.length} 款产品中随机抽取的动画转盘`} className="size-full overflow-visible rounded-full border-[10px] border-white bg-white shadow-[0_24px_55px_rgba(70,60,40,0.18)]" style={{ transform: `rotate(${rotation}deg)`, transitionDuration: reducedMotion ? "80ms" : "3200ms", transitionTimingFunction: "cubic-bezier(.08,.72,.16,1)" }}>

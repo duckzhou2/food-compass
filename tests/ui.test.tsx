@@ -118,7 +118,8 @@ describe("关键界面", () => {
   it("转盘只随机一次并在动画后进入规格选择", () => {
     vi.useFakeTimers();
     const random = vi.spyOn(Math, "random").mockReturnValue(0);
-    render(<WheelExperience products={milkTeaProducts} />);
+    const fixture = milkTeaProducts.filter((product) => !product.excludeFromWheel).slice(0, 4);
+    render(<WheelExperience products={fixture} />);
     fireEvent.click(screen.getByRole("button", { name: "转盘抽一杯" }));
     fireEvent.click(screen.getByRole("button", { name: "转一下" }));
     expect(screen.getByRole("button", { name: "转动中" })).toBeDisabled();
@@ -127,6 +128,16 @@ describe("关键界面", () => {
     expect(screen.getByRole("heading", { name: "选择已有热量记录的规格" })).toBeInTheDocument();
     expect(random).toHaveBeenCalledTimes(1);
     random.mockRestore();
+  });
+
+  it("奶茶浏览列表分批渲染，但候选总数保持完整", () => {
+    render(<WheelExperience products={milkTeaProducts} />);
+    const productList = screen.getByRole("region", { name: "产品列表" });
+    const productGrid = productList.querySelector(".grid")!;
+    expect(productGrid.querySelectorAll("button")).toHaveLength(24);
+    expect(screen.getByText(String(milkTeaProducts.length))).toBeInTheDocument();
+    fireEvent.click(screen.getByRole("button", { name: /加载更多/ }));
+    expect(productGrid.querySelectorAll("button")).toHaveLength(48);
   });
 
   it("确认饮品会保存当前规格和小料，并可从历史恢复", async () => {

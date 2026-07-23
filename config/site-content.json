@@ -1,0 +1,49 @@
+{
+  "brand": {
+    "name": "食物罗盘",
+    "englishName": "FOOD COMPASS",
+    "tagline": "今天吃什么？让罗盘替你选。"
+  },
+  "modules": [
+    {
+      "id": "milkTea",
+      "href": "/wheel",
+      "label": "奶茶罗盘",
+      "eyebrow": "MILK TEA COMPASS",
+      "cta": "去选一杯",
+      "asset": "/brand/milk-tea.webp",
+      "tone": "coral"
+    },
+    {
+      "id": "meals",
+      "href": "/meals",
+      "label": "今天吃什么",
+      "eyebrow": "MEAL COMPASS",
+      "cta": "开始选一顿",
+      "asset": "/brand/meal.webp",
+      "tone": "forest"
+    },
+    {
+      "id": "canteens",
+      "href": "/canteens",
+      "label": "北大食堂",
+      "eyebrow": "PKU CANTEEN",
+      "cta": "去逛食堂",
+      "asset": "/brand/canteen.webp",
+      "tone": "amber"
+    },
+    {
+      "id": "takeout",
+      "href": "/takeout",
+      "label": "北大外卖",
+      "eyebrow": "PKU TAKEOUT",
+      "cta": "去抽一家",
+      "asset": "/brand/takeout.webp",
+      "tone": "jade"
+    }
+  ],
+  "utilityNav": [
+    { "href": "/data", "label": "数据" },
+    { "href": "/about", "label": "说明" }
+  ]
+}

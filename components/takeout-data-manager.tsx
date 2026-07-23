@@ -46,7 +46,7 @@ export function TakeoutDataManager({
     <div role="dialog" aria-modal="true" aria-labelledby="takeout-manager-title" className="fixed inset-0 z-[90] flex justify-end bg-black/45">
       <div className="h-full w-full max-w-3xl overflow-auto bg-[#f8f5ee] p-5 sm:p-8">
         <div className="flex items-start justify-between gap-4">
-          <div><p className="text-xs font-semibold tracking-[.16em] text-[#176b55]">MY TAKEOUT DATA</p><h2 id="takeout-manager-title" className="mt-2 font-serif text-3xl font-bold text-[#173f35]">管理我的外卖</h2></div>
+          <div><p className="text-xs font-semibold tracking-[.16em] text-[#176b55]">MY PKU TAKEOUT</p><h2 id="takeout-manager-title" className="mt-2 font-serif text-3xl font-bold text-[#173f35]">管理我的北大外卖</h2></div>
           <button type="button" onClick={onClose} className="min-h-11 rounded-full border border-stone-300 bg-white px-4">关闭</button>
         </div>
         <div className="mt-6 flex gap-2 overflow-x-auto rounded-2xl bg-stone-200/70 p-1">
