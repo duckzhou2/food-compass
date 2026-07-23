@@ -195,9 +195,17 @@ try {
     });
     await page.waitForFunction(() => document.querySelector("#backToTop")?.classList.contains("visible"));
     const backToTopVisible = await page.locator("#backToTop").getAttribute("aria-hidden");
-    await page.evaluate(() => Object.defineProperty(window, "scrollY", { configurable: true, value: 0 }));
-    await page.locator("#backToTop").click();
-    const backToTop = await page.evaluate((hash) => ({ top: window.scrollY, hashUnchanged: window.location.hash === hash }), hashBeforeTop);
+    const backToTop = await page.evaluate((hash) => {
+      let requestedTop = -1;
+      const originalScrollTo = window.scrollTo;
+      window.scrollTo = (options) => {
+        requestedTop = typeof options === "object" ? Number(options.top) : Number(options);
+      };
+      document.querySelector("#backToTop")?.click();
+      window.scrollTo = originalScrollTo;
+      Object.defineProperty(window, "scrollY", { configurable: true, value: 0 });
+      return { top: requestedTop, hashUnchanged: window.location.hash === hash };
+    }, hashBeforeTop);
     const overflow = await page.evaluate(
       () => document.documentElement.scrollWidth > document.documentElement.clientWidth,
     );
