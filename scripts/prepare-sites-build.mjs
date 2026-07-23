@@ -45,8 +45,13 @@ function extension(pathname) {
 
 function findAsset(pathname) {
   const normalized = pathname.startsWith("/") ? pathname : "/" + pathname;
+  const expandedNextPage = normalized.replace(
+    /(\/__next\.[^/]+)\.(__PAGE__\.txt)$/,
+    "$1/$2",
+  );
   const candidates = [
     normalized,
+    expandedNextPage === normalized ? "" : expandedNextPage,
     normalized === "/" ? "/index.html" : "",
     normalized.endsWith("/") ? normalized + "index.html" : "",
     extension(normalized) ? "" : normalized + ".html",

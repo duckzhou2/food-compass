@@ -1,123 +1,267 @@
+"use client";
+
+import { useMemo, useState } from "react";
 import {
-  auditStatusLabels,
-  availabilityLabels,
-  displayValue,
-  formatCalories,
-  sourceOriginLabels,
-} from "@/lib/formatters";
-import type { MilkTeaProduct } from "@/types/product";
+  calculateTotalCalories,
+  formatCalorieRange,
+  formatCalorieValue,
+  selectToppingVariant,
+  sumToppingCalories,
+} from "@/lib/milk-tea/calories";
+import {
+  findSelectedVariant,
+  getValidOptions,
+  resolveSelectionFromVariantId,
+  updateSelection,
+} from "@/lib/milk-tea/selection";
+import {
+  milkTeaSelectionFields,
+  type MilkTeaBrandData,
+  type MilkTeaConfirmedSelection,
+  type MilkTeaProduct,
+  type MilkTeaSelectionField,
+} from "@/types/milk-tea";
 
-const primarySpecs: Array<{ key: keyof MilkTeaProduct; label: string; unit?: string }> = [
-  { key: "cup_size", label: "杯型" },
-  { key: "volume_ml", label: "容量", unit: " ml" },
-  { key: "sweetness", label: "甜度" },
-  { key: "ice_level", label: "冰量" },
-];
+export interface MilkTeaResultActions {
+  favorite: boolean;
+  confirmed: boolean;
+  status: string;
+  onConfirm: (selection: MilkTeaConfirmedSelection) => void;
+  onAgain: () => void;
+  onSessionExclude: () => void;
+  onSameCategory: () => void;
+  onDifferentBrand: () => void;
+  onToggleFavorite: () => void;
+  onPermanentExclude: () => void;
+}
 
-const nutritionFields: Array<{ key: keyof MilkTeaProduct; label: string; unit: string }> = [
-  { key: "protein_g", label: "蛋白质", unit: " g" },
-  { key: "fat_g", label: "脂肪", unit: " g" },
-  { key: "carbohydrate_g", label: "碳水", unit: " g" },
-  { key: "sugar_g", label: "糖", unit: " g" },
-  { key: "caffeine_mg", label: "咖啡因", unit: " mg" },
-  { key: "tea_polyphenols_mg", label: "茶多酚", unit: " mg" },
-];
+const fieldLabels: Record<MilkTeaSelectionField, string> = {
+  size: "杯型",
+  drinkingMethod: "饮用方式",
+  sugar: "甜度",
+  version: "版本",
+  base: "基底",
+};
 
-export function ProductResultCard({ product }: { product: MilkTeaProduct }) {
+const statusLabels = {
+  detailed: "精细规格参考",
+  specified_reference: "明确规格参考",
+  unspecified_reference: "规格未说明的参考值",
+  missing: "热量待补充",
+  needs_review: "待核验",
+} as const;
+
+const emptyInitialToppingIds: string[] = [];
+
+export function ProductResultCard({
+  product,
+  brand,
+  initialVariantId,
+  initialToppingIds = emptyInitialToppingIds,
+  actions,
+}: {
+  product: MilkTeaProduct;
+  brand: MilkTeaBrandData;
+  initialVariantId?: string | null;
+  initialToppingIds?: string[];
+  actions?: MilkTeaResultActions;
+}) {
+  const [selection, setSelection] = useState(() =>
+    resolveSelectionFromVariantId(product, initialVariantId),
+  );
+  const [selectedToppingIds, setSelectedToppingIds] = useState<string[]>(() =>
+    initialToppingIds.filter((id) => brand.toppings.some((topping) => topping.toppingId === id)),
+  );
+
+  const selectedVariant = findSelectedVariant(product, selection);
+  const selectedToppingVariants = useMemo(
+    () =>
+      brand.toppings
+        .filter((topping) => selectedToppingIds.includes(topping.toppingId))
+        .map((topping) => selectToppingVariant(topping, selection.size))
+        .filter((variant) => variant !== null),
+    [brand.toppings, selectedToppingIds, selection.size],
+  );
+  const toppingCalories = sumToppingCalories(selectedToppingVariants);
+  const totalCalories = calculateTotalCalories(selectedVariant.calories, selectedToppingVariants);
+
+  const toggleTopping = (toppingId: string) => {
+    setSelectedToppingIds((current) =>
+      current.includes(toppingId)
+        ? current.filter((id) => id !== toppingId)
+        : [...current, toppingId],
+    );
+  };
+
   return (
     <article className="result-reveal overflow-hidden rounded-[2rem] bg-white shadow-[0_24px_70px_rgba(50,45,35,0.13)]">
-      <div className="relative overflow-hidden bg-[#173f35] px-6 pb-8 pt-6 text-white sm:px-9 sm:pb-10 sm:pt-8">
+      <div className="relative overflow-hidden bg-[#173f35] px-5 pb-7 pt-6 text-white sm:px-9 sm:pb-9 sm:pt-8">
         <div className="absolute -right-16 -top-24 size-64 rounded-full border-[40px] border-white/[0.04]" />
-        <div className="relative">
-          <p className="text-xs font-semibold tracking-[0.2em] text-[#f6cf72]">罗盘选中了</p>
-          <p className="mt-7 text-sm tracking-[0.16em] text-emerald-100">{product.brand_name}</p>
-          <h2 className="mt-1 max-w-2xl font-serif text-4xl font-bold leading-tight sm:text-5xl">
-            {product.product_name}
+        <div className="relative min-w-0">
+          <p className="text-xs font-semibold tracking-[0.2em] text-[#f6cf72]">当前选择</p>
+          <p className="mt-5 text-sm tracking-[0.16em] text-emerald-100">{product.brandName}</p>
+          <h2 className="mt-1 break-words font-serif text-3xl font-bold leading-tight sm:text-5xl">
+            {product.productName}
           </h2>
-          <div className="mt-7 flex flex-wrap items-end justify-between gap-4 border-t border-white/15 pt-5">
-            <p className="font-mono text-2xl font-bold text-white sm:text-3xl">{formatCalories(product)}</p>
-            <p className="text-sm text-emerald-100/80">{product.normalized_category}</p>
+          <div className="mt-6 flex flex-wrap items-end justify-between gap-3 border-t border-white/15 pt-5">
+            <p className="font-mono text-2xl font-bold sm:text-3xl">
+              {formatCalorieValue(selectedVariant.calories)}
+            </p>
+            <p className="text-sm text-emerald-100/80">{product.displayCategory} · {statusLabels[selectedVariant.dataStatus]}</p>
           </div>
         </div>
       </div>
 
-      <div className="px-6 py-7 sm:px-9 sm:py-8">
-        <dl className="grid grid-cols-2 gap-x-7 gap-y-5 border-b border-stone-200 pb-7 sm:grid-cols-4">
-          {primarySpecs.map(({ key, label, unit }) => (
-            <div key={key}>
-              <dt className="text-xs tracking-wider text-stone-400">{label}</dt>
-              <dd className="mt-1 text-sm font-semibold text-stone-800">
-                {displayValue(product[key] as string | number | null, unit)}
-              </dd>
+      <div className="space-y-8 px-5 py-7 sm:px-9 sm:py-8">
+        <section aria-labelledby="specification-heading">
+          <div className="flex flex-wrap items-end justify-between gap-2">
+            <div>
+              <p className="text-xs font-semibold tracking-[0.16em] text-[#176b55]">规格联动</p>
+              <h3 id="specification-heading" className="mt-1 font-serif text-2xl font-bold text-stone-900">选择已有热量记录的规格</h3>
             </div>
-          ))}
-        </dl>
-
-        <div className="mt-6 flex flex-wrap gap-x-4 gap-y-2 text-xs text-stone-500">
-          {product.tags.map((tag) => <span key={tag}>#{tag}</span>)}
-        </div>
-
-        <details className="group mt-7 border-t border-stone-200 pt-1">
-          <summary className="flex min-h-12 cursor-pointer list-none items-center justify-between py-3 text-sm font-semibold text-[#176b55] marker:content-none">
-            查看完整营养、来源与核验说明
-            <span className="text-lg transition group-open:rotate-45" aria-hidden="true">＋</span>
-          </summary>
-
-          <div className="space-y-8 pb-2 pt-5">
-            <section aria-labelledby="customization-heading">
-              <h3 id="customization-heading" className="text-xs font-semibold tracking-[0.16em] text-stone-400">其他规格</h3>
-              <dl className="mt-4 grid gap-4 sm:grid-cols-2">
-                <div>
-                  <dt className="text-xs text-stone-400">奶底</dt>
-                  <dd className="mt-1 text-sm text-stone-800">{displayValue(product.milk_base)}</dd>
-                </div>
-                <div>
-                  <dt className="text-xs text-stone-400">默认小料</dt>
-                  <dd className="mt-1 text-sm text-stone-800">{displayValue(product.default_toppings)}</dd>
-                </div>
-              </dl>
-            </section>
-
-            <section aria-labelledby="nutrition-heading">
-              <div className="flex items-end justify-between gap-4">
-                <h3 id="nutrition-heading" className="text-xs font-semibold tracking-[0.16em] text-stone-400">营养信息</h3>
-                <span className="text-xs text-stone-400">整杯口径</span>
-              </div>
-              <dl className="mt-4 grid grid-cols-2 gap-x-8 gap-y-4 sm:grid-cols-3">
-                {nutritionFields.map(({ key, label, unit }) => (
-                  <div key={key} className="border-b border-stone-100 pb-3">
-                    <dt className="text-xs text-stone-400">{label}</dt>
-                    <dd className="mt-1 font-mono text-sm font-semibold text-stone-800">
-                      {displayValue(product[key] as number | null, unit)}
-                    </dd>
-                  </div>
-                ))}
-              </dl>
-              <p className="mt-4 text-xs leading-5 text-stone-500">
-                “待核验”表示来源没有披露，并不等于 0。{product.is_estimated ? "本条包含明确标注的估算值。" : "本条未进行配方估算。"}
-              </p>
-            </section>
-
-            <section className="bg-[#f5f1e8] px-5 py-5" aria-labelledby="source-heading">
-              <p className="text-xs font-semibold tracking-[0.14em] text-[#176b55]">
-                {sourceOriginLabels[product.source_origin]} · {auditStatusLabels[product.audit_status] ?? product.audit_status} · 可信度 {product.confidence_grade}
-              </p>
-              <h3 id="source-heading" className="mt-3 font-semibold text-stone-900">{product.source_title}</h3>
-              <p className="mt-1 text-sm text-stone-500">
-                {product.source_publisher ?? "发布者待核验"} · 访问于 {product.source_accessed_at}
-              </p>
-              <p className="mt-4 text-sm leading-6 text-stone-700">{product.audit_reason}</p>
-              <div className="mt-5 flex flex-wrap items-center justify-between gap-3 border-t border-stone-200 pt-4">
-                <span className="text-xs text-stone-500">
-                  {availabilityLabels[product.availability_status] ?? product.availability_status}
-                </span>
-                <a href={product.source_url} target="_blank" rel="noopener noreferrer" className="text-sm font-semibold text-[#176b55] underline decoration-emerald-300 underline-offset-4 hover:text-[#0e4d3d]">
-                  查看原始来源 ↗
-                </a>
-              </div>
-            </section>
+            <span className="text-xs text-stone-400">共 {product.variants.length} 条规格记录</span>
           </div>
-        </details>
+
+          <div className="mt-6 space-y-5">
+            {milkTeaSelectionFields.map((field) => {
+              const options = getValidOptions(product, selection, field);
+              if (options.length === 0) return null;
+              return (
+                <fieldset key={field}>
+                  <legend className="text-sm font-semibold text-stone-700">{fieldLabels[field]}</legend>
+                  <div className="mt-2 flex flex-wrap gap-2">
+                    {options.map((option) => (
+                      <button
+                        key={option}
+                        type="button"
+                        aria-pressed={selection[field] === option}
+                        onClick={() => setSelection((current) => updateSelection(product, current, field, option))}
+                        className={`min-h-11 max-w-full break-words rounded-xl border px-3 py-2 text-sm transition ${
+                          selection[field] === option
+                            ? "border-[#173f35] bg-[#173f35] text-white"
+                            : "border-stone-200 bg-[#fbfaf6] text-stone-700 hover:border-stone-400"
+                        }`}
+                      >
+                        {option}
+                      </button>
+                    ))}
+                  </div>
+                </fieldset>
+              );
+            })}
+          </div>
+          {selectedVariant.dataStatus === "needs_review" && (
+            <p className="mt-5 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm leading-6 text-amber-900">
+              该规格热量数据存在冲突，仅供参考。
+            </p>
+          )}
+        </section>
+
+        <section className="border-t border-stone-200 pt-7" aria-labelledby="toppings-heading">
+          <div>
+            <p className="text-xs font-semibold tracking-[0.16em] text-[#176b55]">额外小料</p>
+            <h3 id="toppings-heading" className="mt-1 font-serif text-2xl font-bold text-stone-900">额外添加小料</h3>
+            <p className="mt-2 text-sm leading-6 text-stone-500">以下为该品牌常见小料，是否支持添加以门店实际菜单为准。</p>
+          </div>
+          {brand.toppings.length > 0 ? (
+            <div className="mt-5 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+              {brand.toppings.map((topping) => {
+                const toppingVariant = selectToppingVariant(topping, selection.size);
+                const checked = selectedToppingIds.includes(topping.toppingId);
+                return (
+                  <label
+                    key={topping.toppingId}
+                    className={`flex min-w-0 cursor-pointer items-start gap-3 rounded-2xl border p-3 transition ${
+                      checked ? "border-[#176b55] bg-emerald-50" : "border-stone-200 bg-[#fbfaf6]"
+                    }`}
+                  >
+                    <input
+                      type="checkbox"
+                      checked={checked}
+                      onChange={() => toggleTopping(topping.toppingId)}
+                      className="mt-1 size-4 accent-[#176b55]"
+                    />
+                    <span className="min-w-0">
+                      <span className="block break-words text-sm font-semibold text-stone-800">{topping.name}</span>
+                      <span className="mt-1 block break-words text-xs leading-5 text-stone-500">
+                        {toppingVariant?.unit ?? "规格未说明"} · {formatCalorieRange(toppingVariant?.calories ?? null)}
+                      </span>
+                    </span>
+                  </label>
+                );
+              })}
+            </div>
+          ) : (
+            <p className="mt-4 rounded-2xl bg-stone-50 px-4 py-3 text-sm text-stone-500">原表未提供可独立累计的小料热量。</p>
+          )}
+          {brand.toppings.length > 0 && (
+            <p className="mt-3 text-xs leading-5 text-stone-500">小料热量按一份计算，实际份量可能因门店而异。</p>
+          )}
+        </section>
+
+        <section className="grid gap-5 rounded-[1.5rem] bg-[#f5f1e8] p-5 sm:grid-cols-[1fr_auto] sm:items-end sm:p-6" aria-labelledby="calorie-result-heading">
+          <div className="min-w-0">
+            <p className="text-xs font-semibold tracking-[0.16em] text-[#176b55]">热量计算</p>
+            <h3 id="calorie-result-heading" className="mt-1 font-serif text-2xl font-bold text-stone-900">本杯参考热量</h3>
+            <dl className="mt-4 space-y-2 text-sm">
+              <div className="flex flex-wrap justify-between gap-3">
+                <dt className="text-stone-500">饮品基础热量</dt>
+                <dd className="font-mono font-semibold text-stone-800">{formatCalorieValue(selectedVariant.calories)}</dd>
+              </div>
+              {selectedToppingVariants.map((variant) => {
+                const topping = brand.toppings.find((item) =>
+                  item.variants.some((itemVariant) => itemVariant.toppingVariantId === variant.toppingVariantId),
+                );
+                return (
+                  <div key={variant.toppingVariantId} className="flex flex-wrap justify-between gap-3">
+                    <dt className="break-words text-stone-500">{topping?.name}（{variant.unit ?? "规格未说明"}）</dt>
+                    <dd className="font-mono font-semibold text-stone-800">+ {formatCalorieRange(variant.calories)}</dd>
+                  </div>
+                );
+              })}
+              {selectedToppingVariants.length > 0 && (
+                <div className="flex flex-wrap justify-between gap-3 border-t border-stone-300 pt-2">
+                  <dt className="text-stone-500">额外小料热量</dt>
+                  <dd className="font-mono font-semibold text-stone-800">{formatCalorieRange(toppingCalories)}</dd>
+                </div>
+              )}
+            </dl>
+          </div>
+          <p className="break-words font-mono text-3xl font-bold text-[#c96348] sm:text-right sm:text-4xl">
+            {formatCalorieRange(totalCalories)}
+          </p>
+          <p className="text-xs leading-5 text-stone-500 sm:col-span-2">
+            热量仅供参考，可能因杯型、配方、原料及门店制作方式不同而变化。
+          </p>
+        </section>
+
+        {actions && (
+          <section className="border-t border-stone-200 pt-7" aria-label="饮品决策操作">
+            <div className="grid gap-2 sm:grid-cols-3">
+              <button
+                type="button"
+                onClick={() =>
+                  actions.onConfirm({
+                    variantId: selectedVariant.variantId,
+                    toppingIds: selectedToppingIds,
+                  })
+                }
+                className="min-h-12 rounded-xl bg-[#173f35] px-4 font-semibold text-white"
+              >
+                {actions.confirmed ? "已记录这杯" : "就喝这个"}
+              </button>
+              <button type="button" onClick={actions.onAgain} className="min-h-12 rounded-xl border border-stone-300 bg-white px-4 font-semibold text-stone-700">再转一次</button>
+              <button type="button" onClick={actions.onSessionExclude} className="min-h-12 rounded-xl border border-stone-300 bg-white px-4 font-semibold text-stone-700">本轮排除</button>
+            </div>
+            <div className="mt-3 grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
+              <button type="button" onClick={actions.onSameCategory} className="min-h-11 rounded-xl bg-[#f5f1e8] px-3 text-sm font-semibold text-stone-700">换个同类</button>
+              <button type="button" onClick={actions.onDifferentBrand} className="min-h-11 rounded-xl bg-[#f5f1e8] px-3 text-sm font-semibold text-stone-700">换个品牌</button>
+              <button type="button" aria-pressed={actions.favorite} onClick={actions.onToggleFavorite} className="min-h-11 rounded-xl bg-[#f5f1e8] px-3 text-sm font-semibold text-stone-700">{actions.favorite ? "取消收藏" : "收藏"}</button>
+              <button type="button" onClick={actions.onPermanentExclude} className="min-h-11 rounded-xl bg-red-50 px-3 text-sm font-semibold text-red-700">永久排除</button>
+            </div>
+            <p className="mt-3 min-h-5 text-sm text-[#176b55]" role="status">{actions.status}</p>
+          </section>
+        )}
       </div>
     </article>
   );

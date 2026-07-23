@@ -1,0 +1,57 @@
+    #food .meal-actions{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;margin-bottom:16px}
+    #wheel .meal-actions{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;margin-bottom:16px}
+    #food .meal-manager-button{min-height:44px;border:1px solid var(--line);border-radius:12px;background:#fff;padding:0 15px;color:var(--forest);font-weight:800}
+    #wheel .meal-manager-button{min-height:44px;border:1px solid var(--line);border-radius:12px;background:#fff;padding:0 15px;color:var(--forest);font-weight:800}
+    #food .meal-wheel-title{margin:8px 0 0;color:var(--forest);font:800 25px Georgia,"Songti SC",serif}
+    #food .meal-category-decision{margin-top:18px;border:1px solid #ead39a;border-radius:22px;background:#fff4d9;padding:22px;text-align:center}
+    #food .meal-category-decision p{margin:0;color:#715f3c;font-size:12px;line-height:1.7}
+    #food .meal-category-decision h2{margin:8px 0;color:var(--forest);font:800 28px Georgia,"Songti SC",serif}
+    #food .meal-category-decision>div{display:flex;justify-content:center;gap:8px;margin-top:16px}
+    #food .meal-category-decision button{min-height:44px;border:1px solid var(--line);border-radius:12px;background:#fff;padding:0 16px;font-weight:800}
+    #food .meal-category-decision .meal-confirm-category{border-color:var(--forest);background:var(--forest);color:#fff}
+    #food .meal-more{margin-top:18px;border-top:1px solid var(--line);padding-top:12px}
+    #food .meal-more summary{min-height:44px;padding:10px 0;color:var(--forest);font-size:13px;font-weight:800;cursor:pointer}
+    #food .meal-check{display:flex;align-items:center;gap:9px;min-height:42px;color:#565149;font-size:12px}
+    #food .meal-check input{width:16px;height:16px;accent-color:var(--jade)}
+    #food .meal-card-note{display:block;margin-top:9px;color:#817a71;font-size:11px;line-height:1.6}
+    #food .meal-product-card{min-width:0;border:1px solid #e1dbd0;border-radius:20px;background:#fff;padding:18px;text-align:left;box-shadow:0 8px 25px rgba(50,45,35,.045);transition:.16s}
+    #food .meal-product-card:hover,#food .meal-product-card.selected{border-color:var(--jade);transform:translateY(-2px);box-shadow:0 14px 30px rgba(23,107,85,.1)}
+    #food .meal-product-card h3{margin:7px 0 0;overflow-wrap:anywhere;color:#292722;font:800 20px Georgia,"Songti SC",serif;line-height:1.28}
+    #food .meal-result-actions,#food .meal-secondary-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+    #food .meal-result-actions button,#food .meal-secondary-actions button{min-height:44px;border:1px solid var(--line);border-radius:12px;background:#fff;padding:0 14px;color:#554f47;font-weight:800}
+    #food .meal-result-actions .meal-confirm{border-color:var(--coral);background:var(--coral);color:#fff}
+    #food .meal-result-actions .meal-again{border-color:var(--forest);background:var(--forest);color:#fff}
+    #food .meal-info-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+    #food .meal-info{min-width:0;border-radius:15px;background:#f5f1e8;padding:13px}
+    #food .meal-info span{display:block;color:#817a71;font-size:10px}
+    #food .meal-info strong{display:block;margin-top:5px;overflow-wrap:anywhere;color:#34312d;font-size:13px;line-height:1.6}
+    #food .meal-status{margin:15px 0 0;border-radius:13px;background:#fff4d9;padding:12px;color:#795b22;font-size:12px;line-height:1.6}
+    #food .meal-manager{position:fixed;z-index:90;inset:0;display:none;place-items:center;background:rgba(25,25,20,.48);padding:20px}
+    #food .meal-manager.open{display:grid}
+    #food .meal-manager-panel{width:min(940px,100%);max-height:92vh;overflow:hidden;border-radius:30px;background:var(--paper);box-shadow:0 30px 90px rgba(0,0,0,.28)}
+    #food .meal-manager-head{display:flex;justify-content:space-between;gap:18px;border-bottom:1px solid var(--line);padding:20px 24px}
+    #food .meal-manager-head h2{margin:5px 0 0;color:var(--forest);font:800 25px Georgia,"Songti SC",serif}
+    #food .meal-manager-head button{min-height:44px;border:1px solid var(--line);border-radius:12px;background:#fff;padding:0 14px}
+    #food .meal-tabs{display:flex;gap:5px;overflow:auto;border-bottom:1px solid var(--line);padding:8px 20px}
+    #food .meal-tabs button{min-height:42px;white-space:nowrap;border:0;border-radius:11px;background:transparent;padding:0 12px;color:#6d675f;font-weight:800}
+    #food .meal-tabs button.active{background:var(--forest);color:#fff}
+    #food .meal-manager-body{max-height:calc(92vh - 138px);overflow:auto;padding:22px}
+    #food .meal-panel{display:none}#food .meal-panel.active{display:block}
+    #food .meal-form{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}
+    #food .meal-form .wide{grid-column:1/-1}
+    #food .meal-form label>span{display:block;margin-bottom:6px;color:#4f4a44;font-size:12px;font-weight:800}
+    #food .meal-form input,#food .meal-form select,#food .meal-form textarea{width:100%;min-height:44px;border:1px solid var(--line);border-radius:11px;background:#fff;padding:9px}
+    #food .meal-form-groups{grid-column:1/-1}.meal-form-groups .field{margin-top:13px}
+    #food .meal-save{min-height:44px;border:0;border-radius:12px;background:var(--forest);padding:0 18px;color:#fff;font-weight:800}
+    #food .meal-list{display:grid;gap:9px;margin-top:15px}
+    #food .meal-list-item{display:flex;align-items:center;justify-content:space-between;gap:12px;border:1px solid var(--line);border-radius:15px;background:#fff;padding:13px}
+    #food .meal-list-item strong{display:block}.meal-list-item small{display:block;margin-top:3px;color:#817a71}
+    #food .meal-list-item button{min-height:40px;border:1px solid var(--line);border-radius:10px;background:#fff;padding:0 11px}
+    #food .meal-transfer{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+    #food .meal-transfer section{border:1px solid var(--line);border-radius:20px;background:#fff;padding:18px}
+    #food .meal-transfer h3{margin:0;color:var(--forest);font:800 20px Georgia,"Songti SC",serif}
+    #food .meal-transfer p{color:#716b62;font-size:12px;line-height:1.7}
+    #food .meal-transfer button,#food .meal-transfer label{display:inline-flex;align-items:center;min-height:44px;border:1px solid var(--line);border-radius:11px;background:#fff;padding:0 13px;font-weight:800}
+    #food .meal-transfer input[type=file]{max-width:100%;font-size:11px}
+    #food .meal-load-more{width:100%;min-height:44px;margin-top:14px;border:1px solid var(--line);border-radius:12px;background:#fff;font-weight:800}
+    @media(max-width:640px){#food .meal-info-grid,#food .meal-form,#food .meal-transfer{grid-template-columns:1fr}#food .meal-form .wide,#food .meal-form-groups{grid-column:auto}#food .meal-manager{place-items:end;padding:0}#food .meal-manager-panel{max-height:94vh;border-radius:28px 28px 0 0}#food .meal-manager-body{max-height:calc(94vh - 138px);padding:16px}#food .meal-result-actions button{flex:1 1 100%}}

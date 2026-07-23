@@ -1,0 +1,5905 @@
+{
+  "brandId": "chabaidao",
+  "brandName": "茶百道",
+  "products": [
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-34033b3b4a81",
+      "productName": "兰韵芭乐冰奶",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-10031ff9ca8d",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-10031ff9ca8d",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 165,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-fd9243c72198",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 180,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-b55a04142f30",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 210,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-cc05fc3fd280",
+      "productName": "茉莉芭乐奶冻",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-da6f89fe1d67",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-da6f89fe1d67",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 220,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-780b59174d5e",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 245,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-14b36eb91f86",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 262,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-60a1f0492e3f",
+      "productName": "芭乐草莓鲜果杯",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-21fe45790db1",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-21fe45790db1",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 117,
+          "dataStatus": "detailed",
+          "notes": [
+            "补充说明图片中称为“芭乐草莓果茶”，主表按产品图名称“芭乐草莓鲜果杯”保存。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-759b3b1639d6",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 132,
+          "dataStatus": "detailed",
+          "notes": [
+            "补充说明图片中称为“芭乐草莓果茶”，主表按产品图名称“芭乐草莓鲜果杯”保存。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-dd2ccdf80c7c",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 149,
+          "dataStatus": "detailed",
+          "notes": [
+            "补充说明图片中称为“芭乐草莓果茶”，主表按产品图名称“芭乐草莓鲜果杯”保存。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 补充说明图片中称为“芭乐草莓果茶”，主表按产品图名称“芭乐草莓鲜果杯”保存。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-49f029dc6c6d",
+      "productName": "青梅冰茶",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-b5a446f450fe",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-27fa59525e65",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 57,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-6963ee2808a1",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 72,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-fa6cd293abac",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 87,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-b5a446f450fe",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 57,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为57 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-43b1433e3a11",
+      "productName": "超级大瓜",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-9273d22c2a7c",
+        "size": null,
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-9273d22c2a7c",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 348,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-2a58a30b55f7",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 363,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-4f46f18ed3ec",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 393,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-2487793f6dc3",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 407,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-12d13970002a",
+      "productName": "固体杨枝甘露",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-83efca081464",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": "标准装",
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-83efca081464",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": "标准装",
+          "base": null,
+          "calories": 535,
+          "dataStatus": "specified_reference",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-aa80501ddb7b",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": "尝鲜装",
+          "base": null,
+          "calories": 242,
+          "dataStatus": "specified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-96dc34540c0f",
+      "productName": "鲜奶茉莉奶绿",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-9b223802386d",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": "鲜奶"
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-774a8d2a00bd",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": "鲜奶",
+          "calories": 185,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-ae797f83a210",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": "鲜奶",
+          "calories": 202,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-f9c49b253be9",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": "鲜奶",
+          "calories": 235,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-a371f729cded",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": "鲜奶",
+          "calories": 256,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-9b223802386d",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": "鲜奶",
+          "calories": 141,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为141 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-4170eb8f338b",
+      "productName": "兰韵铁观音",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-294c5b069287",
+        "size": null,
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-294c5b069287",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 185,
+          "dataStatus": "detailed",
+          "notes": [
+            "产品名未直接标注奶底，但图片形态及热量矩阵与鲜奶茶相近，前台暂归鲜奶茶 / 轻乳茶。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-3ce880d63912",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 202,
+          "dataStatus": "detailed",
+          "notes": [
+            "产品名未直接标注奶底，但图片形态及热量矩阵与鲜奶茶相近，前台暂归鲜奶茶 / 轻乳茶。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-9b26908c6da1",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 235,
+          "dataStatus": "detailed",
+          "notes": [
+            "产品名未直接标注奶底，但图片形态及热量矩阵与鲜奶茶相近，前台暂归鲜奶茶 / 轻乳茶。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-effe614031f0",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 256,
+          "dataStatus": "detailed",
+          "notes": [
+            "产品名未直接标注奶底，但图片形态及热量矩阵与鲜奶茶相近，前台暂归鲜奶茶 / 轻乳茶。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名未直接标注奶底，但图片形态及热量矩阵与鲜奶茶相近，前台暂归鲜奶茶 / 轻乳茶。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-307f4eb60d07",
+      "productName": "西瓜啵啵",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-489b0336a786",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-f7e8f520573c",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 112,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-5ebec2ae3fd2",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 127,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-56a592120512",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 142,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-7d84ef21b059",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 156,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-489b0336a786",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 94,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为94 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-06c23f1571a0",
+      "productName": "草莓奶冻",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-85660815517d",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-85660815517d",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 376,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-74505d08ced3",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 391,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-c3aec2469fc8",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 401,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-f8cf313c16b0",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 421,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-ffdbb5eaf842",
+      "productName": "超级杯水果茶",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-8061488ca87d",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-8061488ca87d",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 275,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-3f687762c923",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 305,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-b9208456db56",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 319,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-4140009e53c2",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 334,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为345 kcal。第一版精细矩阵继续保留，不求平均。 第二版总说明写作中杯，但产品名称为“超级杯水果茶”，与第一版大杯矩阵口径不一致；该条保留核验，不设为默认。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-188c11d6ed5d",
+      "productName": "草莓流心半熟芝士",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-9f0101067b0b",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-9f0101067b0b",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 263,
+          "dataStatus": "detailed",
+          "notes": [
+            "同一杯型中全糖263 kcal低于无糖278 kcal，甜度—热量关系反常，按原图保留并标记待复核。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-566777d607b3",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 278,
+          "dataStatus": "detailed",
+          "notes": [
+            "同一杯型中全糖263 kcal低于无糖278 kcal，甜度—热量关系反常，按原图保留并标记待复核。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 同一杯型中全糖263 kcal低于无糖278 kcal，甜度—热量关系反常，按原图保留并标记待复核。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-3e0e310042c5",
+      "productName": "洛神梅子柠檬茶",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-452d1b2191f3",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-452d1b2191f3",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 113,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-5c56d77f7473",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 157,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-23e0755c7ce3",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 172,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-095debd843d1",
+      "productName": "草莓夹心奶麻薯",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-4bf867b7406b",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-4bf867b7406b",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 347,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-8f04c95fe400",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 362,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-3f23c4df5fd3",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 385,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-f37661e77886",
+      "productName": "杨枝甘露",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-75f564b439bb",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-9663cb137aba",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 278,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-a5db8e2710b3",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 387,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-75f564b439bb",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 277,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为277 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-a9881f24ca34",
+      "productName": "多芒杨枝甘露",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-b1c716770cf3",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-b48d2b886308",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 386,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-5b97598ada8f",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 497,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-b1c716770cf3",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 293,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为293 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-d9239fd0b0f5",
+      "productName": "青提茉莉",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-0b161ec9be98",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-d1955b232d4b",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 137,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-b35a57eb658c",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 160,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-2887806b0b5d",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 181,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-cb657b8b6b4a",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 204,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-0b161ec9be98",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 100,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为100 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-bdf3a9f03f77",
+      "productName": "百香凤梨",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-5f875f2e484d",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-6eeaed8fae26",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 262,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-5d7f8a94535d",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 292,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-8c22aeb193e0",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 322,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-3fd2f03b0030",
+          "size": "大杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 186,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-65120a133f35",
+          "size": "大杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 230,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-4702628b1e55",
+          "size": "大杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 260,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-5f875f2e484d",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 98,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-78e73d315228",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 130,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为98 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-96a5dd462a88",
+      "productName": "黑糖珍珠奶茶Pro",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-2d94b8c27f8f",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-8501d61f6901",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 362,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-90ab5ecb4b8b",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 391,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-fea41c077f17",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 421,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-2d94b8c27f8f",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 388,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。 第二版写作“黑糖珍珠PRO”，与第一版“黑糖珍珠奶茶Pro”合并。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为388 kcal。第一版精细矩阵继续保留，不求平均。 第二版写作“黑糖珍珠PRO”，与第一版“黑糖珍珠奶茶Pro”合并。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-1023ecb1348c",
+      "productName": "黄金椰椰乌龙",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-425ecc9c42b6",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": "鲜奶版",
+        "base": "鲜奶"
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-425ecc9c42b6",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 244,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-b726cd070b8c",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 259,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-4e1053dab9ff",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 274,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-0aaa9ddc1402",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 288,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-375e5c438371",
+      "productName": "铁观音奶冻",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-19e0ff185ab5",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": "鲜奶版",
+        "base": "鲜奶"
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-19e0ff185ab5",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 237,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-9480de71b4c6",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 267,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-c432a9323397",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 296,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-2b23fc6bbc23",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 311,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-d6682580bcac",
+      "productName": "招牌芋圆奶茶",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-786102422677",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-495b68391097",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 362,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-a5907ed069bd",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 392,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-dee54d2ecc1b",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 406,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-dc40d26d8ce2",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 461,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-786102422677",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 352,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为352 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-0edea5004f83",
+      "productName": "豆乳米麻薯",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-ae3e8deb3d06",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-0fa492774b93",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 480,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-5dad610fa13a",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 494,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-d0d67afcfaa8",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 506,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-ae3e8deb3d06",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 430,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为430 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-66e1707acee3",
+      "productName": "超厚芋泥奶绿",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-bd600814a047",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": "标准版",
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-298eb666e91a",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "标准版",
+          "base": "鲜奶",
+          "calories": 259,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-a9aa277a1c0e",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": "标准版",
+          "base": "鲜奶",
+          "calories": 271,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-eee804bb0324",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "标准版",
+          "base": "鲜奶",
+          "calories": 286,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-51d2e0cd76d2",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": "标准版",
+          "base": "鲜奶",
+          "calories": 301,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-41dc0c6eeac5",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "芋泥加量版",
+          "base": "鲜奶",
+          "calories": 289,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-cd62043a039f",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": "芋泥加量版",
+          "base": "鲜奶",
+          "calories": 301,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-8561e0460d94",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "芋泥加量版",
+          "base": "鲜奶",
+          "calories": 316,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-868ac9f46219",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": "芋泥加量版",
+          "base": "鲜奶",
+          "calories": 331,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-bd600814a047",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": "标准版",
+          "base": null,
+          "calories": 324,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-f4b2be748d07",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": "芋泥加量版",
+          "base": null,
+          "calories": 410,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为324 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-9e012cff885c",
+      "productName": "豆乳玉麒麟",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-7fd6aea6e3c7",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-bb4b36a93cc2",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 295,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-596e2a5e56cc",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 325,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-8a8355df9d30",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 354,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-7fd6aea6e3c7",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 328,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为328 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-20c285148ac1",
+      "productName": "茉莉奶绿",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-6b384bb0bbc7",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-33a232d432a3",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 202,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-cf2864132429",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 231,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-0ef14c54ece5",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 246,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-8c0df52c8f09",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 261,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-6b384bb0bbc7",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 224,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为224 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-b0ccea3af580",
+      "productName": "超厚芋泥奶茶",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-86893d636af4",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": "标准版",
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-998ebcd38ff7",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 261,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-437bfcc8771a",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 276,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-e605e4ba8caa",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 291,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-5283048b6835",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 306,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-86893d636af4",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": "标准版",
+          "base": null,
+          "calories": 235,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为235 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-e47e3c90ad12",
+      "productName": "炭焙奶茶",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-c95caec71e86",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "三分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-c95caec71e86",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 235,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-bf52cdb9c201",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 265,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-d627158edc7d",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 282,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-801ad07c18a3",
+      "productName": "活菌·桑葚酸奶昔",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-5e961b253c21",
+        "size": null,
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "七分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-5e961b253c21",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 290,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-ac93d40c65dc",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 325,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-d9d37993fd90",
+      "productName": "芋圆焙焙椰子糖",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-7d1a05409730",
+        "size": null,
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-7d1a05409730",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 386,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-b41e1b742f63",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 401,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-32f2cdb04e46",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 416,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 产品名称包含配料，基础热量视为已包含默认配方；再次选择同名小料应理解为额外添加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-bdcd93cb5543",
+      "productName": "活菌·酸奶紫米露",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-0597acfdf1ae",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-83faf7f28d23",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 371,
+          "dataStatus": "specified_reference",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-0597acfdf1ae",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 276,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。 第二版写作“活菌酸奶紫米露”，与第一版“活菌·酸奶紫米露”合并。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为276 kcal。第一版精细矩阵继续保留，不求平均。 第二版写作“活菌酸奶紫米露”，与第一版“活菌·酸奶紫米露”合并。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-a49263d1bdf3",
+      "productName": "奥利奥半熟芝士",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-a1e058b83fbf",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-6cce4d635f99",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 384,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-c0a6eba16c9b",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 424,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-52434f0a850e",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 444,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-9e44cc24013a",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 464,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-a1e058b83fbf",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 325,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-c7a04cfbc1c5",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 364,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为325 kcal。第一版精细矩阵继续保留，不求平均。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-085dcab3075e",
+      "productName": "三重莓果酸奶昔",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-97af6ff7eb43",
+        "size": null,
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "五分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-97af6ff7eb43",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 305,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-ebd683c31474",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 332,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-de6c055731c9",
+      "productName": "豆乳黑麒麟",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-1bd2705f9b27",
+        "size": null,
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-1bd2705f9b27",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 426,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-e51f9fa9c5f8",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 466,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-bc2d23af4570",
+          "size": null,
+          "ice": null,
+          "temperature": "热",
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 386,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-afca6dd5c29f",
+          "size": null,
+          "ice": null,
+          "temperature": "热",
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 401,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-cee029b7be43",
+          "size": null,
+          "ice": null,
+          "temperature": "热",
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 416,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-38f926c1bd1e",
+      "productName": "花生焙焙牛乳糖",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-9516f28b6806",
+        "size": null,
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-9516f28b6806",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 493,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-50a9cbf5ed0b",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 522,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-14cedee6a256",
+          "size": null,
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 552,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-8bfabfbadfe1",
+      "productName": "黑巧可可珍奶",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-8b749926fa07",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": null,
+        "version": "鲜奶版",
+        "base": "鲜奶"
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-8b749926fa07",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": null,
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 304,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-8a63b2ea6d31",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": null,
+          "version": "鲜奶版",
+          "base": "鲜奶",
+          "calories": 396,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-15f522ecf278",
+      "productName": "麒麟手打柠檬茶",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-c0d087b9c1ff",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "五分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-c0d087b9c1ff",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 158,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-875c540691fb",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 182,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-81751f04d4d0",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 201,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-aa63ba75cefd",
+      "productName": "七窨茉香手打柠檬茶",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-33836ab4a5d1",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "五分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-33836ab4a5d1",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 158,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-3786b3a0db94",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 182,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-4188950b388d",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 201,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-088d79f87fd8",
+      "productName": "锡兰手打柠檬茶",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-90b7e8ba111f",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "五分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-90b7e8ba111f",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 158,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-73b285ef6d0b",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 182,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-5bcb38ac8a92",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 201,
+          "dataStatus": "detailed",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-68e1810437d9",
+      "productName": "茉莉绿茶",
+      "category": "图片未标注",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-191342044a7c",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-755f3e100c43",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "detailed",
+          "notes": [
+            "0 kcal仅对应大杯、标准冰、无糖规格，不外推至其他甜度。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-ebf249ee6771",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 65,
+          "dataStatus": "detailed",
+          "notes": [
+            "0 kcal仅对应大杯、标准冰、无糖规格，不外推至其他甜度。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-bea06f94577a",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 110,
+          "dataStatus": "detailed",
+          "notes": [
+            "0 kcal仅对应大杯、标准冰、无糖规格，不外推至其他甜度。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-191342044a7c",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。 0 kcal仅对应中杯、正常冰、不另外加糖，不外推至其他甜度。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 0 kcal仅对应大杯、标准冰、无糖规格，不外推至其他甜度。 第二版补充中杯基准/明确冷热数据；首选规格参考热量为0 kcal。第一版精细矩阵继续保留，不求平均。 0 kcal仅对应中杯、正常冰、不另外加糖，不外推至其他甜度。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-d34fd83d9292",
+      "productName": "乌漆嘛黑",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-9cf055f398e1",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-9cf055f398e1",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 177,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-528c165dba6e",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 192,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-0c5b112a0928",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 207,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-f616fd0a9fc7",
+      "productName": "三重莓果冰茶",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-988ac0d2a170",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "无糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-988ac0d2a170",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "无糖",
+          "version": null,
+          "base": null,
+          "calories": 132,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-d00622233105",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 162,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-0802166050ee",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 198,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-350c716fe7d4",
+      "productName": "大红袍手打柠檬茶",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-1cb6fe8f0fd2",
+        "size": "大杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "五分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-1cb6fe8f0fd2",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 158,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-9d96a65658dd",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "七分糖",
+          "version": null,
+          "base": null,
+          "calories": 182,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-5b35db326a76",
+          "size": "大杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "全糖",
+          "version": null,
+          "base": null,
+          "calories": 201,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "来源图片自称2026新版热量合集；除明确热饮、固体甜品外，未特别标注者按标准冰保存。当前资料属于第三方参考值，尚未与官方营养信息交叉核验。 图片显示“已售罄”，按用户说明仅视为当前门店状态，不代表下架；数据照常保留。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-72d3a0e06c36",
+      "productName": "红气桂枣暖茶",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-dde5fdcf8734",
+        "size": "中杯",
+        "ice": null,
+        "temperature": "热",
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-dde5fdcf8734",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 275,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-ee2cfbbd26f1",
+      "productName": "红气桂枣桃胶羹",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-172613c8ad65",
+        "size": "中杯",
+        "ice": null,
+        "temperature": "热",
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-172613c8ad65",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 295,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。 产品名称含配料，基础热量视为已包含默认配方。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-9452f5270386",
+      "productName": "酒酿芋圆奶绿",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-912e7d547246",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-912e7d547246",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 307,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。 产品名称含配料，基础热量视为已包含默认配方。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-eb75cb90365d",
+      "productName": "美式",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-ee426014aafc",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-ee426014aafc",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 5,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-ee96604780af",
+      "productName": "茉莉葡萄美式",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-23fef60e0adf",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-23fef60e0adf",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 70,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-bcf3a488b06f",
+      "productName": "青提茉莉美式",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-210c1c0d23e0",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-210c1c0d23e0",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 84,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-eae38913d701",
+      "productName": "茉莉拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-30681fbbdbf3",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-30681fbbdbf3",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 131,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-43fbef62362a",
+      "productName": "香草拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-4c1d4b2ab30e",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-4c1d4b2ab30e",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 146,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-1ab7366c189f",
+      "productName": "鲜牛乳拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-a74aa39917c9",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-a74aa39917c9",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 152,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-aa92911ae952",
+      "productName": "黑芝麻拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-f3bda595c99f",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-f3bda595c99f",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 162,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-73f474a2cc81",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 257,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-d075a63110f1",
+      "productName": "椰香拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-2b4bc0c00ca9",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-2b4bc0c00ca9",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 168,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-d171a3b24c8d",
+      "productName": "芒果生椰拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-d0e9bb4b361c",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-d0e9bb4b361c",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 172,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-ba0d689e55b4",
+      "productName": "半熟芝士拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-2e29490cca5d",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-2e29490cca5d",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 183,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-ef2e1cb40cba",
+      "productName": "咸法酪拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-1948f3358336",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-1948f3358336",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 232,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-1ce5da1f91e9",
+      "productName": "桂花香梨酿",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-2882bd91e9ac",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": "鲜奶"
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-2882bd91e9ac",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": "鲜奶",
+          "calories": 180,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-8dd1fa722d51",
+      "productName": "千目咸法酪",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-f515470fad56",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": "鲜奶"
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-f515470fad56",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": "鲜奶",
+          "calories": 194,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-ec4f56ee43e8",
+      "productName": "桂花香梨桃胶羹",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-94f0ec9b9959",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": "鲜奶"
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-94f0ec9b9959",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": "鲜奶",
+          "calories": 232,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。 产品名称含配料，基础热量视为已包含默认配方。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-b26ae4574ec0",
+      "productName": "黑糖啵啵牛乳茶",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-46a1b7f2cf2a",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": "鲜奶"
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-46a1b7f2cf2a",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": "鲜奶",
+          "calories": 392,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。 产品名称含配料，基础热量视为已包含默认配方。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-20b06c7b96cf",
+      "productName": "抹茶半熟芝士",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-c506bfb15c18",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-c506bfb15c18",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 316,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-45723fc6267e",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 355,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-51526447e5ca",
+      "productName": "慕斯布丁珍奶",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-99b0d14d2c56",
+        "size": "中杯",
+        "ice": "标准冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-99b0d14d2c56",
+          "size": "中杯",
+          "ice": "标准冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 430,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "chabaidao-variant-af2b0bbf311e",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 460,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。 产品名称含配料，基础热量视为已包含默认配方。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-3c7099f962f6",
+      "productName": "焦糖碎碎特调",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-1e5525a40f37",
+        "size": "中杯",
+        "ice": null,
+        "temperature": "热",
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-1e5525a40f37",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 278,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-4f751cc68b96",
+      "productName": "黑巧可可特调",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-5a050623e41f",
+        "size": "中杯",
+        "ice": null,
+        "temperature": "热",
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-5a050623e41f",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 291,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "chabaidao",
+      "brandName": "茶百道",
+      "productId": "chabaidao-db104996f391",
+      "productName": "香草可可特调",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "chabaidao-variant-6f1077908140",
+        "size": "中杯",
+        "ice": null,
+        "temperature": "热",
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "chabaidao-variant-6f1077908140",
+          "size": "中杯",
+          "ice": null,
+          "temperature": "热",
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 444,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版参考值；统一口径为中杯、正常冰、不另外加糖，明确热饮或冷热矩阵按图片保存。未据换算公式补齐其他规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "chabaidao-topping-4673bee5df70",
+        "chabaidao-topping-0c3ae9af9614",
+        "chabaidao-topping-3d1a4ea03224",
+        "chabaidao-topping-41007e1c5f90",
+        "chabaidao-topping-c5227022e249",
+        "chabaidao-topping-d9489590e05e",
+        "chabaidao-topping-581caeb41d4c",
+        "chabaidao-topping-9388874894a0",
+        "chabaidao-topping-8f6cf18cf547",
+        "chabaidao-topping-869423c7db0d",
+        "chabaidao-topping-253e8bac1c6b",
+        "chabaidao-topping-124cf0ecc434",
+        "chabaidao-topping-d758c2fa4925",
+        "chabaidao-topping-576fd8ec3ca0",
+        "chabaidao-topping-9f9cccf292ee",
+        "chabaidao-topping-57d0bb7d128e",
+        "chabaidao-topping-9da686c621c8",
+        "chabaidao-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版统一口径为中杯、正常冰、不另外加糖；明确热饮或冷热矩阵按具体图片保存。当前为第三方参考值，未据换算公式补齐其他组合。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    }
+  ],
+  "toppings": [
+    {
+      "toppingId": "chabaidao-topping-4673bee5df70",
+      "name": "冻冻",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-92c298439d39",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 56,
+            "max": 56
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约70克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。 第二版另给40 kcal但未标克重；主值继续采用第一版约70克、56 kcal。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-0c3ae9af9614",
+      "name": "奥利奥",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-ae2c716e346f",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 72,
+            "max": 72
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约20克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-3d1a4ea03224",
+      "name": "奶冻",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-8cce921d9576",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 87,
+            "max": 87
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约70克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。 第二版另给66 kcal但未标克重；主值继续采用第一版约70克、87 kcal。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-41007e1c5f90",
+      "name": "奶麻薯",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-14609d810c85",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 122,
+            "max": 122
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约100克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-c5227022e249",
+      "name": "小西米",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-4d165117a803",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 49,
+            "max": 49
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约40克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-d9489590e05e",
+      "name": "慕斯布丁",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-8327051a1764",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 203,
+            "max": 203
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约80克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-581caeb41d4c",
+      "name": "木薯",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-6053ed487b6f",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 78,
+            "max": 78
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约50克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-9388874894a0",
+      "name": "桃胶",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-e7e51de5eeed",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 45,
+            "max": 45
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "第二版未标克重",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "第二版未提供单份克重；热量按图片所示一份保存，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-8f6cf18cf547",
+      "name": "椰果",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-055a69df39e6",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 12,
+            "max": 12
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约35克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。 第二版另给55 kcal但未标克重；主值继续采用第一版约35克、12 kcal。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-869423c7db0d",
+      "name": "珍珠",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-9f57b9e33de5",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 120,
+            "max": 120
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "第二版未标克重",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "第二版未提供单份克重；热量按图片所示一份保存，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-253e8bac1c6b",
+      "name": "禾米麻薯",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-e0f532517915",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 95,
+            "max": 95
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "第二版未标克重",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "第二版未提供单份克重；热量按图片所示一份保存，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-124cf0ecc434",
+      "name": "脆啵啵",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-69ed4df5ba14",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 35,
+            "max": 35
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约35克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。 第二版另给50 kcal但未标克重；主值继续采用第一版约35克、35 kcal。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-d758c2fa4925",
+      "name": "芋圆",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-65828f212e27",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 70,
+            "max": 70
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约35克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。 第二版另给90 kcal但未标克重；主值继续采用第一版约35克、70 kcal。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-576fd8ec3ca0",
+      "name": "芋泥",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-919ec2e637eb",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 203,
+            "max": 203
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约80克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-9f9cccf292ee",
+      "name": "芝士奶盖",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-7379021b1651",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 85,
+            "max": 85
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约25克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。 第二版另给100 kcal但未标克重；主值继续采用第一版约25克、85 kcal。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-57d0bb7d128e",
+      "name": "血糯米",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-787577ce0cf6",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 89,
+            "max": 89
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约50克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。 第二版另给95 kcal但未标克重；主值继续采用第一版约50克、89 kcal。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-9da686c621c8",
+      "name": "马蹄爆爆珠",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-5af4debe0286",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 60,
+            "max": 60
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "第二版未标克重",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "第二版未提供单份克重；热量按图片所示一份保存，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "chabaidao-topping-689011910b89",
+      "name": "黑糖珍珠",
+      "variants": [
+        {
+          "toppingVariantId": "chabaidao-topping-variant-b1e756fe0d76",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 138,
+            "max": 138
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "约60克",
+            "以下为茶百道常见小料，是否支持添加以门店实际菜单为准。",
+            "小料热量按图片所示一份计算，实际份量可能因门店而异。"
+          ]
+        }
+      ]
+    }
+  ]
+}

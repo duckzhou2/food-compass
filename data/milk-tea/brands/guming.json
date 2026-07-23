@@ -1,0 +1,3622 @@
+{
+  "brandId": "guming",
+  "brandName": "古茗",
+  "products": [
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-35865949756f",
+      "productName": "生椰抹茶麻薯",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "guming-variant-488c743cf3f9",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-2a0e0081b24f",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 447,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-488c743cf3f9",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 448,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。；第二版明确规格为中杯/少冰/不另外加糖，参考热量448 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-a213159e3bc8",
+      "productName": "芋泥牛乳小丸子",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-dddc107030bf",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-dddc107030bf",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 434,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-61ea6179bb0f",
+      "productName": "黑糖珍珠牛乳",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-573c72799cf3",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-a673c1a52ec4",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 576,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-573c72799cf3",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 520,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。；第二版明确规格为中杯/少冰/不另外加糖，参考热量520 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-712e2a0282ca",
+      "productName": "桂花酒酿小丸子",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "guming-variant-6dff8e95fe3d",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-2dc1d26bcc5d",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 301,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-6dff8e95fe3d",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 310,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。；第二版明确规格为中杯/少冰/不另外加糖，参考热量310 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-3d75d9406e97",
+      "productName": "双重芝士抹茶",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "guming-variant-11bddaaf8c4c",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-f752ac274824",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 315,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-11bddaaf8c4c",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 315,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量315 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-0c6279e07425",
+      "productName": "布丁西米露",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "guming-variant-2fa3057d8d77",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-2fa3057d8d77",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 414,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-d38b0060934f",
+      "productName": "珍珠奶茶",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "guming-variant-6b0d0d9c7b2f",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-6b0d0d9c7b2f",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 275,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-df0213cdd803",
+      "productName": "茉莉奶绿",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "guming-variant-7254acae31f5",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-5fac7c50699d",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 130,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-7254acae31f5",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 120,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量120 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-fe2f1245ee09",
+      "productName": "招牌布丁奶茶",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "guming-variant-fcc580337595",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-fcc580337595",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 259,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-9a036e9d2eec",
+      "productName": "大叔奶茶",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "guming-variant-65c2d3a01a5c",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "五分甜",
+        "version": "不去料",
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-65c2d3a01a5c",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "五分甜",
+          "version": "不去料",
+          "base": null,
+          "calories": 295,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-0218c0f43b1d",
+      "productName": "布蕾脆脆奶芙",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "guming-variant-9191a8a80a2c",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-4e7ee3fce2a1",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 355,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-9191a8a80a2c",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 350,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。；第二版明确规格为中杯/少冰/不另外加糖，参考热量350 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-144ef6ff205d",
+      "productName": "云岭茉莉",
+      "category": "图片未标注",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-917dc3261700",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-317ebf4d7506",
+          "size": null,
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 125,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-917dc3261700",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 110,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量110 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-6fea730fd336",
+      "productName": "云深幽兰",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-aa754ce0c85e",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-d19f6d3a5ccd",
+          "size": null,
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 350,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-aa754ce0c85e",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 340,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量340 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-863e6ee5cc70",
+      "productName": "十里江南桂",
+      "category": "图片未标注",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-5f694e9c6ad2",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-26aafe07fa0a",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 140,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-5f694e9c6ad2",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 130,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量130 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-fef5322b6077",
+      "productName": "卡美罗焦糖拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-2029d73e35f5",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-2029d73e35f5",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 359,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-8ed69d0cba9c",
+      "productName": "鲜奶拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-6d5d3164616f",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-2765161d7efe",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 180,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-6d5d3164616f",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 180,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量180 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-24ad28c57f81",
+      "productName": "柠C美式",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-4e41881297f7",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-b0f8cdd57923",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 120,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-4e41881297f7",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 98,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量98 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-8c1877bee9fd",
+      "productName": "好事花生拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-a98e64130a40",
+        "size": null,
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-a98e64130a40",
+          "size": null,
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 284,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-f086dc3a7f73",
+      "productName": "桂花拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-90279a0eb291",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-077a05552a0b",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 164,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-90279a0eb291",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 165,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量165 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-fecc1c8001c8",
+      "productName": "生椰拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-eac3b151ef25",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-5601493e5db3",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 216,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-eac3b151ef25",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 215,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量215 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-bbf8a89f0493",
+      "productName": "青橘柠檬水",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-b64b6709d0e5",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-1a47b3327448",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 30,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-b64b6709d0e5",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 25,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量25 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-30175a6ff82f",
+      "productName": "爆汁鲜果汁",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-eaf081651ed1",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-31b755c0715a",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 46,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-eaf081651ed1",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 60,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第一版名称为“爆汁鲜果杯”，第二版名称为“爆汁鲜果汁”，结合图片视为同一产品并统一采用后者。；第二版明确规格为中杯/少冰/不另外加糖，参考热量60 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-420b5a33bfc4",
+      "productName": "手剥粒粒大橘",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-dd67cbdd0422",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-dd67cbdd0422",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 160,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-f71ef715e30d",
+      "productName": "莓莓鲜橙茶",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-a1cea9fed4f0",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-a1cea9fed4f0",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 124,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-30381869673b",
+      "productName": "芝士多重莓果",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-45a969240ab0",
+        "size": null,
+        "ice": "沙冰",
+        "temperature": null,
+        "sugar": "三分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-45a969240ab0",
+          "size": null,
+          "ice": "沙冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 307,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-bdc3f751ff7d",
+      "productName": "莓莓麻薯",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-d015118b0fa7",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-853c8836c3c8",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 321,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-d015118b0fa7",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 320,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。；第二版明确规格为中杯/少冰/不另外加糖，参考热量320 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-cfaa73bca5f0",
+      "productName": "杨枝甘露轻盈版",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "guming-variant-94fab2c6d1f5",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-d07863099f0f",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 303,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-94fab2c6d1f5",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 300,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量300 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-a8497dd55e20",
+      "productName": "满杯多重莓果",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-66be4e83ea6d",
+        "size": null,
+        "ice": "沙冰",
+        "temperature": null,
+        "sugar": "三分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-66be4e83ea6d",
+          "size": null,
+          "ice": "沙冰",
+          "temperature": null,
+          "sugar": "三分糖",
+          "version": null,
+          "base": null,
+          "calories": 134,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-5a03a201e650",
+      "productName": "百香双重奏",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-64c58f5c6fe3",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-01a927eef981",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 181,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-64c58f5c6fe3",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 180,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量180 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-f5e4ec8e2f93",
+      "productName": "芝士莓莓",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-c1cdf7c27d46",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-c59748ae3ced",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 303,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-c1cdf7c27d46",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 310,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量310 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-76f092baa5bb",
+      "productName": "曲香茉莉",
+      "category": "图片未标注",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-65a0b7f3abe0",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-76f35040363f",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 0 kcal仅适用于图片所示“正常冰 + 不另外加糖”口径，未推广至其他甜度。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-65a0b7f3abe0",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。 0 kcal仅对应本条明确规格。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 0 kcal仅适用于图片所示“正常冰 + 不另外加糖”口径，未推广至其他甜度。；第二版明确规格为中杯/少冰/不另外加糖，参考热量0 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-042290e81c90",
+      "productName": "生椰芋泥芒芒",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "guming-variant-18a2abfd5707",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-18a2abfd5707",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 498,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-a3e63b2af6a0",
+      "productName": "美式咖啡",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-6983de6d31c0",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-32bba935779f",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 10,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-6983de6d31c0",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 15,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量15 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-9df05c48c98e",
+      "productName": "大橘美式",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-08c9e58693c5",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-08c9e58693c5",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 131,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-5d32b972eaa5",
+      "productName": "提拉米苏拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-41efa0e94a0b",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "五分糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-41efa0e94a0b",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "五分糖",
+          "version": null,
+          "base": null,
+          "calories": 412,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-f26ea3a38f9b",
+      "productName": "早安鲜牛奶",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-0b384f71572c",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-e1b4674cba69",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 207,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-0b384f71572c",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 190,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第一版名称为“早安牛奶”，第二版名称为“早安鲜牛奶”，结合图片视为同一产品并统一采用后者。；第二版明确规格为中杯/少冰/不另外加糖，参考热量190 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-3852ee12afb2",
+      "productName": "苦尽柑来拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-8acff13f5bbd",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-c0fcaae2abdf",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 402,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "guming-variant-8acff13f5bbd",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 380,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。；第二版明确规格为中杯/少冰/不另外加糖，参考热量380 kcal；第一版记录继续保留为另一规格口径。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-8cd8fe556c2b",
+      "productName": "芋泥麻薯炖奶",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "guming-variant-60ef6eae9d88",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-60ef6eae9d88",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 557,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。 产品名包含配料，基础热量应理解为已包含默认配方；再次添加同名小料需另加一份。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-44966f76ddf4",
+      "productName": "桃胶木薯炖奶",
+      "category": "图片未标注",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "guming-variant-292913ee9d02",
+        "size": null,
+        "ice": "正常冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-292913ee9d02",
+          "size": null,
+          "ice": "正常冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 489,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "图片未提供品牌官方菜单分类和杯型；原始分类暂记为“图片未标注”。热量按图片所示整杯规格理解，属于单一参考值。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-ce56216e3008",
+      "productName": "香草籽维也纳",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-ebba154467fa",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-ebba154467fa",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 400,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-b2818844d401",
+      "productName": "加浓美式",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-72c3674c8daa",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-72c3674c8daa",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 15,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-43c160c8f98c",
+      "productName": "初春山茶",
+      "category": "图片未标注",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-ea6f8053d049",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-ea6f8053d049",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 120,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-976f1a9ad394",
+      "productName": "花开向阳拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-4ec199c30c9c",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-4ec199c30c9c",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 175,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-69c1dfb7d411",
+      "productName": "马斯卡彭拿铁",
+      "category": "图片未标注",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "guming-variant-1c031392fd73",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-1c031392fd73",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 275,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-a45cc9f4e1cd",
+      "productName": "西子龙井茶",
+      "category": "图片未标注",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-da8051ba435a",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-da8051ba435a",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 117,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-afa0c89bae93",
+      "productName": "龙井香青团",
+      "category": "图片未标注",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-d4ad416c2f74",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-d4ad416c2f74",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 288,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。 产品名称含配料，基础热量视为已包含默认配方。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-2d6b08f5c3e7",
+      "productName": "黑桑凤梨",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-c9ee05c48b2e",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-c9ee05c48b2e",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 130,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-829ef9503682",
+      "productName": "苹果金凤梨",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-10b42ba99a09",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-10b42ba99a09",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 150,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-410a24ba3447",
+      "productName": "古茗奶茶",
+      "category": "图片未标注",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "guming-variant-f603124dbf96",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-f603124dbf96",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 270,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-fe90c37f1c7c",
+      "productName": "云顶抹茶龙井",
+      "category": "图片未标注",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "guming-variant-e59ed03e52bd",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-e59ed03e52bd",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 330,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-c756fd2e0cf3",
+      "productName": "春橙山茶",
+      "category": "图片未标注",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "guming-variant-ecb466919521",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-ecb466919521",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 146,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "guming",
+      "brandName": "古茗",
+      "productId": "guming-8ab9d040aff7",
+      "productName": "黑桑莓莓",
+      "category": "图片未标注",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "guming-variant-16efda738742",
+        "size": "中杯",
+        "ice": "少冰",
+        "temperature": null,
+        "sugar": "不另外加糖",
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "guming-variant-16efda738742",
+          "size": "中杯",
+          "ice": "少冰",
+          "temperature": null,
+          "sugar": "不另外加糖",
+          "version": null,
+          "base": null,
+          "calories": 125,
+          "dataStatus": "detailed",
+          "notes": [
+            "第二版单值参考；明确规格为中杯、少冰、不另外加糖。未根据换算公式补齐其他杯型、冷热或甜度组合。"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "guming-topping-5bf36bb2ccef",
+        "guming-topping-92c8ab8a174c",
+        "guming-topping-12421b005e0e",
+        "guming-topping-c238ef5cd2ef",
+        "guming-topping-331fc0421103",
+        "guming-topping-609ea502b59d",
+        "guming-topping-a9a129e79f06",
+        "guming-topping-8f6cf18cf547",
+        "guming-topping-869423c7db0d",
+        "guming-topping-800062969cd8",
+        "guming-topping-576fd8ec3ca0",
+        "guming-topping-6ec80bff837e",
+        "guming-topping-1eeb75b5211f",
+        "guming-topping-a84b9293d230",
+        "guming-topping-771522bec527",
+        "guming-topping-689011910b89"
+      ],
+      "notes": [
+        "第二版明确标注为中杯、少冰、不另外加糖；当前仅有单一参考值。未使用控卡换算公式自动生成去冰、热饮、大杯或其他甜度数据。"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    }
+  ],
+  "toppings": [
+    {
+      "toppingId": "guming-topping-5bf36bb2ccef",
+      "name": "多肉",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-643985e9fb36",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 40,
+            "max": 40
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。",
+            "名称较泛，图片未说明具体水果或配方组成。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-92c8ab8a174c",
+      "name": "奶盖",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-bfee38c3393c",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 165,
+            "max": 165
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-12421b005e0e",
+      "name": "奶芙",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-8d644ee03f73",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 168,
+            "max": 168
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-c238ef5cd2ef",
+      "name": "小丸子",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-b4ad18063b43",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 155,
+            "max": 155
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-331fc0421103",
+      "name": "布丁",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-237f0ed4bb4b",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 85,
+            "max": 85
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-609ea502b59d",
+      "name": "布蕾多多",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-251662f4f3bf",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 220,
+            "max": 220
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-a9a129e79f06",
+      "name": "桃胶银耳",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-c1543701e1b2",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 88,
+            "max": 88
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-8f6cf18cf547",
+      "name": "椰果",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-055a69df39e6",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 65,
+            "max": 65
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-869423c7db0d",
+      "name": "珍珠",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-9f57b9e33de5",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 175,
+            "max": 175
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-800062969cd8",
+      "name": "米麻薯",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-6bfe6e5feadf",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 155,
+            "max": 155
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-576fd8ec3ca0",
+      "name": "芋泥",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-919ec2e637eb",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 115,
+            "max": 115
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-6ec80bff837e",
+      "name": "蜜豆",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-da8e322ab8df",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 130,
+            "max": 130
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-1eeb75b5211f",
+      "name": "西柚粒",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-3a1363b254ed",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 15,
+            "max": 15
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-a84b9293d230",
+      "name": "西米",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-a00bd8fa382c",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 50,
+            "max": 50
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-771522bec527",
+      "name": "黄心木薯",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-05848fadde36",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 117,
+            "max": 117
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "guming-topping-689011910b89",
+      "name": "黑糖珍珠",
+      "variants": [
+        {
+          "toppingVariantId": "guming-topping-variant-b1e756fe0d76",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 250,
+            "max": 250
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "以下为古茗常见小料，是否支持添加以门店实际菜单为准。"
+          ]
+        }
+      ]
+    }
+  ]
+}

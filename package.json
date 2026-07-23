@@ -3,17 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "import:canteens": "node scripts/import-canteen-data.mjs",
     "dev": "next dev",
     "build": "next build && node scripts/prepare-sites-build.mjs",
+    "build:offline": "node scripts/build-offline.mjs",
+    "check:offline-script": "node scripts/check-offline-script.mjs",
+    "test:offline": "node scripts/visual-qa-offline.mjs",
+    "test:offline:meals": "node scripts/visual-qa-offline-meals.mjs",
+    "test:offline:canteens": "node scripts/visual-qa-offline-canteens.mjs",
+    "test:offline:takeout": "node scripts/visual-qa-offline-takeout.mjs",
     "start": "node dist/local-server.mjs",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "node scripts/visual-qa.mjs smoke",
-    "visual:qa": "node scripts/visual-qa.mjs",
-    "data:generate": "node scripts/generate-data.mjs",
-    "data:validate": "node scripts/validate-data.mjs"
+    "test:e2e:takeout": "node scripts/visual-qa-takeout.mjs",
+    "visual:qa": "node scripts/visual-qa.mjs"
   },
   "dependencies": {
     "csv-parse": "latest",

@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { WheelExperience } from "@/components/wheel-experience";
-import { products } from "@/lib/data/products";
+import { milkTeaProducts } from "@/lib/data/milk-tea";
 
 export const metadata: Metadata = {
   title: "奶茶罗盘",
-  description: "筛选候选饮品，转动罗盘并查看可追溯的营养与来源信息。",
+  description: "从八个饮品品牌中选择产品、已有规格和小料，实时计算参考热量。",
 };
 
 export default function WheelPage() {
@@ -14,10 +14,10 @@ export default function WheelPage() {
         <p className="text-xs font-semibold tracking-[0.18em] text-[#176b55]">MILK TEA COMPASS</p>
         <h1 className="mt-3 font-serif text-4xl font-bold text-[#173f35] sm:text-5xl">把选择困难，转成一点期待。</h1>
         <p className="mt-4 leading-7 text-stone-600">
-          默认只抽取有热量数据的记录；切换到“全部目录”可从完整产品池抽取，无热量产品会明确标为待核验。
+          浏览八个品牌的完整产品目录，可同时选择多个品牌，或让转盘随机抽一款，再选择已有热量记录的规格，并参考该品牌常见小料。
         </p>
       </header>
-      <WheelExperience products={products} />
+      <WheelExperience products={milkTeaProducts} />
     </main>
   );
 }

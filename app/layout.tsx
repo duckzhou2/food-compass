@@ -1,14 +1,15 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { BackToTopButton } from "@/components/back-to-top-button";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 
 export const metadata: Metadata = {
   title: {
-    default: "食物罗盘｜今天喝什么？",
+    default: "食物罗盘｜今天吃什么？",
     template: "%s｜食物罗盘",
   },
-  description: "从可追溯的奶茶目录中随机选一杯，查看热量、核验状态与原始来源。",
+  description: "不知道吃什么或喝什么时，按条件筛选或交给分类均衡罗盘。",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
@@ -20,6 +21,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           <div className="flex-1">{children}</div>
           <SiteFooter />
         </div>
+        <BackToTopButton />
       </body>
     </html>
   );

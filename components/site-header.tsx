@@ -2,9 +2,12 @@ import Link from "next/link";
 
 const links = [
   { href: "/", label: "首页" },
+  { href: "/meals", label: "今天吃什么" },
+  { href: "/canteens", label: "北大食堂" },
+  { href: "/takeout", label: "外卖罗盘" },
   { href: "/wheel", label: "奶茶罗盘" },
-  { href: "/data", label: "数据透明度" },
-  { href: "/about", label: "关于" },
+  { href: "/data", label: "数据" },
+  { href: "/about", label: "说明" },
 ];
 
 export function SiteHeader() {
@@ -29,7 +32,7 @@ export function SiteHeader() {
             <Link
               key={link.href}
               href={link.href}
-              className={`${index === 0 || index === links.length - 1 ? "hidden sm:block" : "block"} whitespace-nowrap px-2.5 py-2 text-sm text-stone-600 transition hover:text-[#173f35] sm:px-4`}
+              className={`${index === 0 || index >= 5 ? "hidden md:block" : "block"} whitespace-nowrap px-2 py-2 text-xs text-stone-600 transition hover:text-[#173f35] sm:px-3 sm:text-sm lg:px-4`}
             >
               {link.label}
             </Link>

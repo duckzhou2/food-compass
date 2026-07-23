@@ -1,0 +1,3913 @@
+{
+  "brandId": "yidiandian",
+  "brandName": "一点点",
+  "products": [
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-bcaaaf76e188",
+      "productName": "香柠养乐多",
+      "category": "乳酸菌果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-2e02c33da5c3",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-2e02c33da5c3",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 133,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "截图未说明杯型、糖度、冰量及是否含默认小料",
+            "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-3ff3e8616536",
+      "productName": "养乐多绿",
+      "category": "乳酸菌茶",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-7737a513ab11",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-27c9cdfe653b",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 136,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-7737a513ab11",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 102,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-9b92e680b23c",
+      "productName": "冰淇淋薄荷奶绿",
+      "category": "冰淇淋奶绿",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-69bd9dafd81b",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-69bd9dafd81b",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 330,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "默认菜单规格疑似，但截图未给出完整定制口径",
+            "新链接热量测评图；未说明杯型、糖度、冰量及是否含默认小料"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "本轮菜单截图新增产品"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-6b21ab72d232",
+      "productName": "冰淇淋红茶",
+      "category": "冰淇淋茶",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-e7eed92a45a0",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-3a41fbbb5254",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 249,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-e7eed92a45a0",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 166,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "可能含冰淇淋；截图未说明计算口径"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-afb7bfdc48f5",
+      "productName": "藏青盐咸奶绿",
+      "category": "咸奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-757d1a9ea85a",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-6310b6da8537",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 225,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-757d1a9ea85a",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 180,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-9d9a3cbbe9f7",
+      "productName": "红茶玛奇朵",
+      "category": "奶盖茶",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-c8d7ce84b0da",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-da7f565197c2",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 144,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-c8d7ce84b0da",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 108,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及奶盖口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-33aa35273f91",
+      "productName": "六窨茉莉奶绿",
+      "category": "奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-07cf55e59e71",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-e4f1c6b4c653",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 156,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-07cf55e59e71",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 132,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-925e8ca60d55",
+      "productName": "波霸奶绿",
+      "category": "奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-677f72d24707",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-5385e22213f3",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 402,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-677f72d24707",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 299,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "可能含默认波霸；截图未说明计算口径"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-c55423f23efe",
+      "productName": "奶茶",
+      "category": "奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-d82c6525bfa0",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-21634d7ab733",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 192,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-d82c6525bfa0",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 154,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-de11f9e6745e",
+      "productName": "小珍珠奶茶",
+      "category": "奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-03d172fe8947",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-ba0213b16c1b",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 402,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-03d172fe8947",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 299,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "可能含默认小珍珠；截图未说明计算口径"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-26dfb12f2551",
+      "productName": "布丁奶茶",
+      "category": "奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-928480f0fe78",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-ef9ae628a916",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 474,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-928480f0fe78",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 269,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "截图新增"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-954d10130b1a",
+      "productName": "抹茶奶茶",
+      "category": "奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-8e6e7ab6e0b5",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-f40fc67d8a65",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 327,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-5a0ea7b1b0f7",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 262,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-e81aa3a1b38d",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 202,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-8e6e7ab6e0b5",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 162,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "本轮菜单截图新增产品"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-58f98ab054f7",
+      "productName": "椰果奶茶",
+      "category": "奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-a2596375eac4",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-ca02245bf3a6",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 350,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-a2596375eac4",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 231,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "可能含默认椰果；截图未说明计算口径"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-063277a73064",
+      "productName": "波霸奶茶",
+      "category": "奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-c49409b2aca3",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-c49409b2aca3",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 400,
+          "dataStatus": "unspecified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "可能含默认波霸；截图未说明计算口径"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-28579bacfc5a",
+      "productName": "重焙奶乌",
+      "category": "奶茶/奶乌",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-7ccd697efbb6",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-7567457e27c7",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 192,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-7ccd697efbb6",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 154,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-47afde5029c8",
+      "productName": "黑糖粉粿奶乌",
+      "category": "奶茶/奶乌",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-e0a1e0db1ce5",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-e0a1e0db1ce5",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 322,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "截图未说明杯型、糖度、冰量及是否含默认小料",
+            "可能含默认黑糖粉粿；截图未说明计算口径"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "可能含默认黑糖粉粿；截图未说明计算口径"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-b5be922a4f95",
+      "productName": "四季奶青",
+      "category": "奶茶/奶青",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-7adfec7d00b7",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-7adfec7d00b7",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 184,
+          "dataStatus": "unspecified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-dcd75c59461e",
+      "productName": "可可芭蕾",
+      "category": "巧克力/可可饮",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-6a2469f86488",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-c4750e0090ed",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 227,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-6a2469f86488",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 187,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "截图新增；A2牛乳版"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-37b9eaca4768",
+      "productName": "阿华田",
+      "category": "巧克力/麦芽饮",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-33d2bd2533d6",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-33d2bd2533d6",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 319,
+          "dataStatus": "unspecified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-47c2664bd4a4",
+      "productName": "草莓森林",
+      "category": "抹茶果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-124d7ff22b51",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-c3f6cadefb3a",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 300,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-124d7ff22b51",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 235,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "本轮菜单截图新增产品"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-fb9521612ba4",
+      "productName": "A2牛乳抹茶",
+      "category": "抹茶牛乳",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-09c56bb4a868",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-bc02843bec13",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 202,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-09c56bb4a868",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 162,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "本轮菜单截图新增产品"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-b897c8b9d0d2",
+      "productName": "招牌四季春+珍波椰",
+      "category": "招牌茶饮/综合小料",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-1bb811eb4418",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-5884bd907b64",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 158,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-1bb811eb4418",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 118,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "名称显示含珍珠、波霸、椰果类组合；具体组成以门店为准"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-d81825669d63",
+      "productName": "山楂奶绿",
+      "category": "果味奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-ccdb82d8ee74",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "植脂末版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-ae5de0ff6f2a",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 415,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-ccdb82d8ee74",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 321,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-f36122659ec6",
+      "productName": "甜橙奶绿",
+      "category": "果味奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-2650e4469fb1",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-2650e4469fb1",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 369,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "截图未说明杯型、糖度、冰量及是否含默认小料",
+            "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-e3d0dc2b111a",
+      "productName": "芭乐奶绿",
+      "category": "果味奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-af0e40084922",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-3246ce0e5867",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 222,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-af0e40084922",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 189,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-fd518bf1f291",
+      "productName": "苹果奶绿",
+      "category": "果味奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-98f851655585",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-98f851655585",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 247,
+          "dataStatus": "unspecified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-774b567fa8ec",
+      "productName": "蔓越莓奶绿",
+      "category": "果味奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-e4331cf30fc3",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "植脂末版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-b51bdf6f9da3",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 437,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-e4331cf30fc3",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 334,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-aab0f671ade3",
+      "productName": "橘子奶青",
+      "category": "果味奶青",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-33b8c830519f",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "植脂末版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-64e593be96e2",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 439,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-33b8c830519f",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 316,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "截图新增；植脂末版"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-cde9a46b8f48",
+      "productName": "柠檬汁",
+      "category": "果汁/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-6ca0d1f3f53b",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-6ca0d1f3f53b",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 10,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "截图未说明杯型、糖度、冰量及是否含默认小料",
+            "数值较低，可能对应特定低糖/无糖规格，需后续核验"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "数值较低，可能对应特定低糖/无糖规格，需后续核验"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-bc0c84a723f3",
+      "productName": "葡萄柚汁",
+      "category": "果汁/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-cc107e5372f4",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-cc107e5372f4",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 170,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "截图未说明杯型、糖度、冰量及是否含默认小料",
+            "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-0c7e18e60f23",
+      "productName": "藏青盐芭乐绿",
+      "category": "果茶/咸奶盖茶",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-f1058cebdaa1",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-f1058cebdaa1",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 143,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "默认菜单规格疑似，但截图未给出完整定制口径",
+            "新链接热量测评图；未说明杯型、糖度、冰量及是否含默认小料"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "本轮菜单截图新增产品"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-7c5a7f1be221",
+      "productName": "藏青盐蔓越莓绿",
+      "category": "果茶/咸奶盖茶",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-e58fcec36326",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-e58fcec36326",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 117,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "截图未说明杯型、糖度、冰量及是否含默认小料",
+            "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-499e6a8685db",
+      "productName": "只此芒果青",
+      "category": "果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-dac268d218aa",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-dac268d218aa",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 112,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "截图未说明杯型、糖度、冰量及是否含默认小料",
+            "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-8552258820ec",
+      "productName": "只此草莓红",
+      "category": "果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-c7c25529c16a",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-c7c25529c16a",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 128,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "截图未说明杯型、糖度、冰量及是否含默认小料",
+            "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-81d6cc17772d",
+      "productName": "只此青柚",
+      "category": "果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-afe51b58453f",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-afe51b58453f",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 119,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-db881f256d52",
+      "productName": "芭乐绿",
+      "category": "果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-5fe6285930e3",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-021bb751a13c",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 100,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-5fe6285930e3",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 80,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-2eae50e04b91",
+      "productName": "苹果茉莉绿",
+      "category": "果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-df7b9ada6684",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-df7b9ada6684",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 60,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "默认菜单规格疑似，但截图未给出完整定制口径",
+            "新链接热量测评图；未说明杯型、糖度、冰量及是否含默认小料"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-fbe8ea5ca266",
+      "productName": "葡萄柚绿",
+      "category": "果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-5a653dc8048f",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-5a653dc8048f",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 170,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "默认菜单规格疑似，但截图未给出完整定制口径",
+            "新链接热量测评图；未说明杯型、糖度、冰量及是否含默认小料"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-c8ad604bffa7",
+      "productName": "杨枝甘露",
+      "category": "果茶/甜品饮",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-8b70f2b32f8d",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-8b70f2b32f8d",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 288,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "默认菜单规格疑似，但截图未给出完整定制口径",
+            "新链接热量测评图；未说明杯型、糖度、冰量及是否含默认小料"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "本轮菜单截图新增产品"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-fd3d3aa548ed",
+      "productName": "金桔柠檬",
+      "category": "果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-da87902a2a78",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-da87902a2a78",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 12,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "截图未说明杯型、糖度、冰量及是否含默认小料",
+            "数值较低，可能对应特定低糖/无糖规格，需后续核验"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "数值较低，可能对应特定低糖/无糖规格，需后续核验"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-ab3aed9288dd",
+      "productName": "六窨香柠绿",
+      "category": "柠檬茶",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-37624a2b8ac4",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-37624a2b8ac4",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 5,
+          "dataStatus": "unspecified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-9c8b10677e0f",
+      "productName": "奶绿装芒",
+      "category": "水果奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-e9edd762b20f",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-e9edd762b20f",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 275,
+          "dataStatus": "unspecified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-ac815afc2874",
+      "productName": "米麻薯草莓奶绿",
+      "category": "水果奶绿/小料奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-005c55b3e9ef",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-749593251975",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 338,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-005c55b3e9ef",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 305,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-43b2d438ef43",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 487,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-1d3aa512fa42",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 368,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "截图新增；A2牛乳版与植脂末版均有数据"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-c46ceed976e1",
+      "productName": "QQ美莓奶茶",
+      "category": "水果奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-aa42810adbd3",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-aa42810adbd3",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 300,
+          "dataStatus": "unspecified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-9dc37c388744",
+      "productName": "草莓A2牛乳绿茶",
+      "category": "牛乳果茶",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-2a425e6b530e",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-2a425e6b530e",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 205,
+          "dataStatus": "unspecified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-d314dde996ec",
+      "productName": "A2牛乳四季春茶",
+      "category": "牛乳茶",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-bf381432ab52",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-65a38f7afd81",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 192,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-bf381432ab52",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 154,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及配方口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-c08efc5330ac",
+      "productName": "A2牛乳红茶",
+      "category": "牛乳茶",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-e93681b8d54d",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-e93681b8d54d",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 128,
+          "dataStatus": "unspecified_reference",
+          "notes": [],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-8042d5492b31",
+      "productName": "六窨茉莉绿茶",
+      "category": "纯茶",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-f13d398d2959",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-17974e00894b",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-f13d398d2959",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "截图未说明糖度；纯茶实际热量可能随加糖变化"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-970e532a847f",
+      "productName": "四季春茶",
+      "category": "纯茶",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-5bce4d734675",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-c3a50aa1762e",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-5bce4d734675",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "截图未说明糖度；纯茶实际热量可能随加糖变化"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-5d524371213d",
+      "productName": "锦鲤红茶",
+      "category": "纯茶",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-07c2d8734a5a",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-a30621cd6337",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-07c2d8734a5a",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "截图标注0 kcal；可能对应特定无糖规格，需后续核验"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-48680fce5f7f",
+      "productName": "抹茶",
+      "category": "纯茶/抹茶",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-1f79141e4f2d",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-97d27bae716b",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 35,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-1f79141e4f2d",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 23,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "截图新增"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-2f34a5b08d1f",
+      "productName": "芋霸不能",
+      "category": "芋泥/奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-de05f8e96e3e",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-f73830f1c418",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 316,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-de05f8e96e3e",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 257,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "截图新增；名称按图片原样录入"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-4cf5281be910",
+      "productName": "薄荷奶绿",
+      "category": "风味奶绿",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-a16d9ad4d647",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-b40c6e3ad9f1",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 373,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-2ae5df569afa",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "植脂末版",
+          "calories": 290,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-b2beb2468e82",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 248,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-a16d9ad4d647",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 190,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "yidiandian",
+      "brandName": "一点点",
+      "productId": "yidiandian-34cfb1f366b0",
+      "productName": "玫瑰重焙奶乌",
+      "category": "风味奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "yidiandian-variant-8558402aef22",
+        "size": "中杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": "A2牛乳版"
+      },
+      "variants": [
+        {
+          "variantId": "yidiandian-variant-78d96374d871",
+          "size": "大杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 377,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "yidiandian-variant-8558402aef22",
+          "size": "中杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": "A2牛乳版",
+          "calories": 285,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片明确给出杯型；奶底/版本按图片标签录入；糖度未说明",
+            "热量仅供参考；image(8) 与 image(9) 内容重复，仅计一次"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "yidiandian-topping-3691378f7d0f",
+        "yidiandian-topping-c8c1485e7673",
+        "yidiandian-topping-aed961878d8c",
+        "yidiandian-topping-f023f99a0ddb",
+        "yidiandian-topping-331fc0421103",
+        "yidiandian-topping-479c3395eb54",
+        "yidiandian-topping-a6bebc7919e7",
+        "yidiandian-topping-8f6cf18cf547",
+        "yidiandian-topping-15f85358e436",
+        "yidiandian-topping-324ddb68ca56",
+        "yidiandian-topping-5e4951bcb0bc",
+        "yidiandian-topping-a84b9293d230",
+        "yidiandian-topping-dd0951276c28"
+      ],
+      "notes": [
+        "杯型、糖度、冰量及小料口径未说明，热量仅供参考"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    }
+  ],
+  "toppings": [
+    {
+      "toppingId": "yidiandian-topping-3691378f7d0f",
+      "name": "仙草",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-3db5b485801d",
+          "size": "大杯",
+          "unit": "大杯/份",
+          "calories": {
+            "min": 19,
+            "max": 19
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        },
+        {
+          "toppingVariantId": "yidiandian-topping-variant-b1ff0624dddc",
+          "size": "中杯",
+          "unit": "中杯/份",
+          "calories": {
+            "min": 15,
+            "max": 15
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-c8c1485e7673",
+      "name": "冰淇淋",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-03bbfa478501",
+          "size": null,
+          "unit": "每个",
+          "calories": {
+            "min": 80,
+            "max": 80
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-aed961878d8c",
+      "name": "奶霜",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-c5f1b6cee78e",
+          "size": "大杯",
+          "unit": "大杯/份",
+          "calories": {
+            "min": 144,
+            "max": 144
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        },
+        {
+          "toppingVariantId": "yidiandian-topping-variant-e98574da3b56",
+          "size": "中杯",
+          "unit": "中杯/份",
+          "calories": {
+            "min": 108,
+            "max": 108
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-f023f99a0ddb",
+      "name": "小珍珠",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-bb1415ffc49e",
+          "size": "大杯",
+          "unit": "大杯/份",
+          "calories": {
+            "min": 150,
+            "max": 150
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        },
+        {
+          "toppingVariantId": "yidiandian-topping-variant-3203cc4189a9",
+          "size": "中杯",
+          "unit": "中杯/份",
+          "calories": {
+            "min": 130,
+            "max": 130
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-331fc0421103",
+      "name": "布丁",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-12c8cab6b444",
+          "size": null,
+          "unit": "每个",
+          "calories": {
+            "min": 110,
+            "max": 110
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-479c3395eb54",
+      "name": "栀子冻",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-a2635e77e238",
+          "size": "大杯",
+          "unit": "大杯/份",
+          "calories": {
+            "min": 62,
+            "max": 62
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        },
+        {
+          "toppingVariantId": "yidiandian-topping-variant-474de0e055a4",
+          "size": "中杯",
+          "unit": "中杯/份",
+          "calories": {
+            "min": 47,
+            "max": 47
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-a6bebc7919e7",
+      "name": "椰奶冻",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-16a6c2afcffc",
+          "size": "大杯",
+          "unit": "大杯/份",
+          "calories": {
+            "min": 150,
+            "max": 150
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        },
+        {
+          "toppingVariantId": "yidiandian-topping-variant-c7b3d2a7141c",
+          "size": "中杯",
+          "unit": "中杯/份",
+          "calories": {
+            "min": 120,
+            "max": 120
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-8f6cf18cf547",
+      "name": "椰果",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-a5c07b400c52",
+          "size": "大杯",
+          "unit": "大杯/份",
+          "calories": {
+            "min": 96,
+            "max": 96
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        },
+        {
+          "toppingVariantId": "yidiandian-topping-variant-e14e56600c40",
+          "size": "中杯",
+          "unit": "中杯/份",
+          "calories": {
+            "min": 72,
+            "max": 72
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-15f85358e436",
+      "name": "波霸",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-9a95d0a51f2c",
+          "size": "大杯",
+          "unit": "大杯/份",
+          "calories": {
+            "min": 150,
+            "max": 150
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        },
+        {
+          "toppingVariantId": "yidiandian-topping-variant-9cc5f8abf91e",
+          "size": "中杯",
+          "unit": "中杯/份",
+          "calories": {
+            "min": 130,
+            "max": 130
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-324ddb68ca56",
+      "name": "红豆",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-924d728c185f",
+          "size": "大杯",
+          "unit": "大杯/份",
+          "calories": {
+            "min": 200,
+            "max": 200
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        },
+        {
+          "toppingVariantId": "yidiandian-topping-variant-7671f77d9acd",
+          "size": "中杯",
+          "unit": "中杯/份",
+          "calories": {
+            "min": 160,
+            "max": 160
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-5e4951bcb0bc",
+      "name": "茶冻",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-b4a806135cf7",
+          "size": "大杯",
+          "unit": "大杯/份",
+          "calories": {
+            "min": 41,
+            "max": 41
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        },
+        {
+          "toppingVariantId": "yidiandian-topping-variant-c6f25e87a12a",
+          "size": "中杯",
+          "unit": "中杯/份",
+          "calories": {
+            "min": 31,
+            "max": 31
+          },
+          "dataStatus": "specified_reference",
+          "notes": [
+            "图片明确标注杯型/份或每个",
+            "热量仅供参考；图中另注“加三份小料，要除以3”，含义需后续核验"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-a84b9293d230",
+      "name": "西米",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-7802f92e32d7",
+          "size": null,
+          "unit": null,
+          "calories": {
+            "min": 181,
+            "max": 181
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "原图未说明每份克重及杯型",
+            "每份克重未说明；热量仅供参考"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "yidiandian-topping-dd0951276c28",
+      "name": "黑糖粉粿",
+      "variants": [
+        {
+          "toppingVariantId": "yidiandian-topping-variant-1bee5e474368",
+          "size": null,
+          "unit": null,
+          "calories": {
+            "min": 77,
+            "max": 77
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "原图未说明每份克重及杯型",
+            "每份克重未说明；热量仅供参考"
+          ]
+        }
+      ]
+    }
+  ]
+}

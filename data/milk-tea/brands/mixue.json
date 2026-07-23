@@ -1,0 +1,2997 @@
+{
+  "brandId": "mixue",
+  "brandName": "蜜雪冰城",
+  "products": [
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-34c1e0d54273",
+      "productName": "芋泥好暖椰",
+      "category": "奶茶/乳饮",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-a5d630b5f8fd",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-a5d630b5f8fd",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 368,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-c70d0e9703ba",
+      "productName": "茉莉奶绿",
+      "category": "奶茶/乳饮",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-6a5145b44ff7",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-6a5145b44ff7",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 123,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-705e08c5a86c",
+      "productName": "厚芋泥奶茶",
+      "category": "奶茶/乳饮",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-443c8479a392",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-443c8479a392",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 315,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-c722e128f3cb",
+      "productName": "苹果奶绿",
+      "category": "果味奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-f8b59431c634",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-f8b59431c634",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 146,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-bafb8d2efb81",
+      "productName": "奥利奥奶绿",
+      "category": "奶茶/乳饮",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-44d7cb6a6eff",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-44d7cb6a6eff",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 280,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-da88b3169281",
+      "productName": "四季春轻乳茶",
+      "category": "轻乳茶",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "mixue-variant-697d104ff9c2",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-697d104ff9c2",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 111,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-4c279c0593c9",
+      "productName": "奥利奥奶茶",
+      "category": "奶茶/乳饮",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-195b5e37999e",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-195b5e37999e",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 400,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-f93612a6b88c",
+      "productName": "港式杨枝甘露",
+      "category": "果茶/甜品饮",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "mixue-variant-a9727885ef41",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-a9727885ef41",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 253,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-4b38e367ee8b",
+      "productName": "棒打鲜橙",
+      "category": "鲜果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-0fc4bc9e9b09",
+        "size": "大杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-0fc4bc9e9b09",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 162,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-263b8e720a99",
+      "productName": "冰鲜柠檬水",
+      "category": "鲜果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-f7f405c5c821",
+        "size": "大杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-f7f405c5c821",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 15,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-64d99fcfb522",
+      "productName": "草莓啵啵",
+      "category": "鲜果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-adaa342b4191",
+        "size": "大杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-adaa342b4191",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 248,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-9e74f56101bc",
+      "productName": "桃喜芒芒",
+      "category": "鲜果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-7a9266d46e30",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-7a9266d46e30",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 140,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-18dce9403aa2",
+      "productName": "芋圆葡萄",
+      "category": "鲜果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-457997b165bd",
+        "size": "大杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-457997b165bd",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 226,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-593b218432b0",
+      "productName": "满杯百香果",
+      "category": "鲜果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-34c08211b9a1",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-34c08211b9a1",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 250,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-f4cf44502283",
+      "productName": "蜜桃四季春（新）",
+      "category": "鲜果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-f30dfc6fc4d2",
+        "size": "大杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-f30dfc6fc4d2",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 166,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-2b91fcd76b43",
+      "productName": "柠檬绿茶",
+      "category": "鲜果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-b7947bb06c4b",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-b7947bb06c4b",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 11,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-c7193ef61a2f",
+      "productName": "苹果桃桃",
+      "category": "鲜果茶/果饮",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-0a44677c998d",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-0a44677c998d",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 142,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-eeef0f3b4c11",
+      "productName": "茉莉拿铁咖啡",
+      "category": "咖啡",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "mixue-variant-f9369bde7c1a",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-f9369bde7c1a",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 99,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-f7dc7cd33af8",
+      "productName": "黑糖拿铁",
+      "category": "咖啡",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "mixue-variant-44b61cd96281",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-44b61cd96281",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 173,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-00ef9a6a8e07",
+      "productName": "美式咖啡",
+      "category": "咖啡",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "mixue-variant-ef02077627a4",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-ef02077627a4",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 2,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-49a192e13f19",
+      "productName": "椰椰拿铁",
+      "category": "咖啡",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "mixue-variant-2ac705012538",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-2ac705012538",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 178,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-24de77fadd35",
+      "productName": "葡萄冰美式",
+      "category": "咖啡",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "mixue-variant-b9163a9f9a42",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-b9163a9f9a42",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 110,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-f1ffd5d74530",
+      "productName": "拿铁咖啡（新）",
+      "category": "咖啡",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "mixue-variant-4d3ad8f76c4e",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-4d3ad8f76c4e",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 162,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-0cf89dcc616c",
+      "productName": "苹果冰美式",
+      "category": "咖啡",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "mixue-variant-dfede7c4ec18",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-dfede7c4ec18",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 82,
+          "dataStatus": "detailed",
+          "notes": [
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-5afe3b242848",
+      "productName": "珍珠奶茶",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-ba4433264f83",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-ba4433264f83",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 377,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "mixue-variant-0e1a778ba2a0",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 535,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-155801b72663",
+      "productName": "布丁奶茶",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-59c9e46bdafc",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-59c9e46bdafc",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 298,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "mixue-variant-63d82ff1ddc1",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 378,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-b36d9456ed7e",
+      "productName": "椰果奶茶",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-ffaa164ca6dc",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-ffaa164ca6dc",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 287,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "mixue-variant-49495799c70d",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 398,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-f783bc45e0e1",
+      "productName": "双拼奶茶",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-90bb1177f16e",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-90bb1177f16e",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 342,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "mixue-variant-e069f34df9c6",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 415,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-033939a4d317",
+      "productName": "红豆奶茶",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-4609de556d3a",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-4609de556d3a",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 311,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "mixue-variant-ab99798a119e",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 471,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-5efdaf23fd15",
+      "productName": "三拼霸霸奶茶",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-a7226892545c",
+        "size": "大杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-a7226892545c",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 403,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-85bfa668a308",
+      "productName": "黑糖珍珠奶茶",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-028161183a06",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-028161183a06",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 353,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-83c540ff59c7",
+      "productName": "芋圆奶茶",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-f4c28100e7e2",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-f4c28100e7e2",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 375,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        },
+        {
+          "variantId": "mixue-variant-5a60bbb9aad0",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 532,
+          "dataStatus": "detailed",
+          "notes": [
+            "大杯数据来自配方表；图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-5a765bf8c117",
+      "productName": "红豆奶布丁",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-3b45fe1fcc9d",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-3b45fe1fcc9d",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 358,
+          "dataStatus": "detailed",
+          "notes": [
+            "仅给出无糖和全糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "仅给出无糖和全糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-9066e1c99e1b",
+      "productName": "芝士奶盖四季春",
+      "category": "奶盖茶",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "mixue-variant-c4b76eba284a",
+        "size": "大杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-c4b76eba284a",
+          "size": "大杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 182,
+          "dataStatus": "detailed",
+          "notes": [
+            "图片未给出7分糖",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "图片未给出7分糖"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-1e1007d4def4",
+      "productName": "蜜桃甘露（新）",
+      "category": "果茶/甜品饮",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "mixue-variant-7786888ec276",
+        "size": "中杯",
+        "ice": "冰/少冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-7786888ec276",
+          "size": "中杯",
+          "ice": "冰/少冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 297,
+          "dataStatus": "detailed",
+          "notes": [
+            "仅给出单一参考值",
+            "原表仅提供该杯型/冰量的默认参考值，未展开甜度组合"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "仅给出单一参考值"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-b276e618257d",
+      "productName": "芝士奶盖葡萄",
+      "category": "奶盖茶/果茶",
+      "displayCategory": "果茶 / 果饮",
+      "defaultSelection": {
+        "variantId": "mixue-variant-20bf7a502484",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-20bf7a502484",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 219,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-f3dbfd1141e4",
+      "productName": "原味奶茶",
+      "category": "经典奶茶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-8e06db7c6711",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-8e06db7c6711",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 238,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-24c69ee0a27b",
+      "productName": "芝士奶盖绿茶",
+      "category": "奶盖茶",
+      "displayCategory": "茶特调",
+      "defaultSelection": {
+        "variantId": "mixue-variant-aef1f822322b",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-aef1f822322b",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 150,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-9e6817d0a5cf",
+      "productName": "富桂糯糯茶",
+      "category": "奶茶/乳饮",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-f9511f9726f8",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-f9511f9726f8",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 280,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-6ea9181d3b24",
+      "productName": "香蕉拿铁",
+      "category": "咖啡",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "mixue-variant-ba1e89c425e9",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-ba1e89c425e9",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 150,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-e808aa01d0e7",
+      "productName": "雪王雪顶咖啡",
+      "category": "咖啡",
+      "displayCategory": "咖啡",
+      "defaultSelection": {
+        "variantId": "mixue-variant-4bbeec79aa7c",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-4bbeec79aa7c",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 186,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-c70ab9137813",
+      "productName": "黑糖珍珠撞奶",
+      "category": "乳饮/撞奶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-4287d0b5cc87",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-4287d0b5cc87",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 200,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-0b4b2de2ee49",
+      "productName": "香蕉撞奶",
+      "category": "乳饮/撞奶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-52bda4d50568",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-52bda4d50568",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 240,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-6ab17bfb25dd",
+      "productName": "香蕉酸奶",
+      "category": "乳饮/酸奶",
+      "displayCategory": "奶茶 / 奶绿",
+      "defaultSelection": {
+        "variantId": "mixue-variant-0194586c74c3",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-0194586c74c3",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 170,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-04de2f997b4e",
+      "productName": "新鲜冰淇淋",
+      "category": "冰淇淋/甜品",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "mixue-variant-8deec3bf868b",
+        "size": "份",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-8deec3bf868b",
+          "size": "份",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 191,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "单一汇总参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-b824769767e1",
+      "productName": "雪王大圣代奥利奥口味",
+      "category": "冰淇淋/甜品",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "mixue-variant-008b233a845c",
+        "size": "份",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-008b233a845c",
+          "size": "份",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 382,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "单一汇总参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-dabe71e5f8be",
+      "productName": "草莓摇摇奶",
+      "category": "冰淇淋/甜品",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "mixue-variant-907815b87a9c",
+        "size": "杯",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-907815b87a9c",
+          "size": "杯",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 268,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "单一汇总参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-d8b9871f5673",
+      "productName": "雪王大圣代草莓口味",
+      "category": "冰淇淋/甜品",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "mixue-variant-99c08c686fd4",
+        "size": "份",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-99c08c686fd4",
+          "size": "份",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 286,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "单一汇总参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-af54f037b35c",
+      "productName": "脆皮大圣代",
+      "category": "冰淇淋/甜品",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "mixue-variant-15360e0d3845",
+        "size": "份",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-15360e0d3845",
+          "size": "份",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 486,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "单一汇总参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-8bb1d35bc467",
+      "productName": "雪王大圣代芒果口味",
+      "category": "冰淇淋/甜品",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "mixue-variant-4557c63bfdc2",
+        "size": "份",
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-4557c63bfdc2",
+          "size": "份",
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 265,
+          "dataStatus": "specified_reference",
+          "notes": [
+            "单一汇总参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考"
+      ],
+      "dataStatus": "specified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-96a702765655",
+      "productName": "蜜桃甘露",
+      "category": "轻乳茶/果味乳饮",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "mixue-variant-35478de4fce5",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-35478de4fce5",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 210,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "与“蜜桃甘露（新）”分开保留；单一汇总参考"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "与“蜜桃甘露（新）”分开保留；单一汇总参考"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-64720b4b0dd8",
+      "productName": "芋圆奶绿",
+      "category": "轻乳茶",
+      "displayCategory": "鲜奶茶 / 轻乳茶",
+      "defaultSelection": {
+        "variantId": "mixue-variant-05e9f35b7d05",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-05e9f35b7d05",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 240,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单一汇总参考；规格与甜度未说明"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "单一汇总参考；规格与甜度未说明"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-73a002c34c4b",
+      "productName": "茉莉绿茶",
+      "category": "原叶纯茶",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "mixue-variant-9950a28cb581",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-9950a28cb581",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "纯茶无糖参考值"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "纯茶无糖参考值"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-bc91b9d09fc5",
+      "productName": "高山四季春茶",
+      "category": "原叶纯茶",
+      "displayCategory": "纯茶",
+      "defaultSelection": {
+        "variantId": "mixue-variant-f542c32d5737",
+        "size": null,
+        "ice": null,
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-f542c32d5737",
+          "size": null,
+          "ice": null,
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "纯茶无糖参考值"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "纯茶无糖参考值"
+      ],
+      "dataStatus": "unspecified_reference",
+      "reviewFlags": []
+    },
+    {
+      "brandId": "mixue",
+      "brandName": "蜜雪冰城",
+      "productId": "mixue-418946064145",
+      "productName": "雪王冰杯",
+      "category": "其他",
+      "displayCategory": "冰淇淋 / 甜品",
+      "defaultSelection": {
+        "variantId": "mixue-variant-83e017aa2f5f",
+        "size": "杯",
+        "ice": "冰",
+        "temperature": null,
+        "sugar": null,
+        "version": null,
+        "base": null
+      },
+      "variants": [
+        {
+          "variantId": "mixue-variant-83e017aa2f5f",
+          "size": "杯",
+          "ice": "冰",
+          "temperature": null,
+          "sugar": null,
+          "version": null,
+          "base": null,
+          "calories": 0,
+          "dataStatus": "detailed",
+          "notes": [
+            "冰杯本体参考值"
+          ],
+          "reviewFlags": []
+        }
+      ],
+      "toppings": [
+        "mixue-topping-96e221567ffb",
+        "mixue-topping-99ece883f4ae",
+        "mixue-topping-92c8ab8a174c",
+        "mixue-topping-8f6cf18cf547",
+        "mixue-topping-869423c7db0d",
+        "mixue-topping-324ddb68ca56",
+        "mixue-topping-a69bad122d56",
+        "mixue-topping-d758c2fa4925",
+        "mixue-topping-46e653164068"
+      ],
+      "notes": [
+        "冰杯本体参考值"
+      ],
+      "dataStatus": "detailed",
+      "reviewFlags": []
+    }
+  ],
+  "toppings": [
+    {
+      "toppingId": "mixue-topping-96e221567ffb",
+      "name": "乳酸菌冻冻",
+      "variants": [
+        {
+          "toppingVariantId": "mixue-topping-variant-e6c80bad984f",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 27,
+            "max": 27
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单份参考热量"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "mixue-topping-99ece883f4ae",
+      "name": "奥利奥碎",
+      "variants": [
+        {
+          "toppingVariantId": "mixue-topping-variant-c8494f0d154c",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 90,
+            "max": 90
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单份参考热量"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "mixue-topping-92c8ab8a174c",
+      "name": "奶盖",
+      "variants": [
+        {
+          "toppingVariantId": "mixue-topping-variant-bfee38c3393c",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 155,
+            "max": 155
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单份参考热量"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "mixue-topping-8f6cf18cf547",
+      "name": "椰果",
+      "variants": [
+        {
+          "toppingVariantId": "mixue-topping-variant-055a69df39e6",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 41,
+            "max": 41
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单份参考热量"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "mixue-topping-869423c7db0d",
+      "name": "珍珠",
+      "variants": [
+        {
+          "toppingVariantId": "mixue-topping-variant-9f57b9e33de5",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 160,
+            "max": 160
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单份参考热量"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "mixue-topping-324ddb68ca56",
+      "name": "红豆",
+      "variants": [
+        {
+          "toppingVariantId": "mixue-topping-variant-10421800dd7b",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 147,
+            "max": 147
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单份参考热量"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "mixue-topping-a69bad122d56",
+      "name": "脆波波",
+      "variants": [
+        {
+          "toppingVariantId": "mixue-topping-variant-cb05481f2a18",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 41,
+            "max": 41
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单份参考热量"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "mixue-topping-d758c2fa4925",
+      "name": "芋圆",
+      "variants": [
+        {
+          "toppingVariantId": "mixue-topping-variant-65828f212e27",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 140,
+            "max": 140
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单份参考热量"
+          ]
+        }
+      ]
+    },
+    {
+      "toppingId": "mixue-topping-46e653164068",
+      "name": "鸡蛋布丁",
+      "variants": [
+        {
+          "toppingVariantId": "mixue-topping-variant-bf91508a546d",
+          "size": null,
+          "unit": "每份",
+          "calories": {
+            "min": 92,
+            "max": 92
+          },
+          "dataStatus": "unspecified_reference",
+          "notes": [
+            "单份参考热量"
+          ]
+        }
+      ]
+    }
+  ]
+}

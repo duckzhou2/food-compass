@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-07-15T00:00:00+08:00",
+  "hardChecks": {
+    "rawGithubRecords": 514,
+    "mergedGithubRecords": 514,
+    "githubSkuIds": 514,
+    "sourceFiles": 12,
+    "canteens": 14,
+    "servicePoints": 1,
+    "uniqueDishIds": 650,
+    "uniqueFloorIds": 31,
+    "uniqueWindowIds": 79,
+    "brokenRelations": 0
+  },
+  "githubFileCounts": {
+    "jia1.csv": 25,
+    "jia2.csv": 36,
+    "jia3.csv": 10,
+    "xue1.csv": 71,
+    "yan.csv": 57,
+    "song.csv": 46,
+    "shao1.csv": 33,
+    "shao2.csv": 26,
+    "xue5.csv": 53,
+    "nong1.csv": 63,
+    "nong2.csv": 36,
+    "tong.csv": 58
+  },
+  "entities": {
+    "sources": 25,
+    "canteens": 15,
+    "servicePoints": 1,
+    "physicalFloors": 19,
+    "structuralFloorNodes": 31,
+    "windows": 79,
+    "dishes": 650,
+    "skus": 514,
+    "activities": 5,
+    "windowPendingDishes": 427
+  },
+  "duplicateInputs": {
+    "exactGroups": 21,
+    "normalizedGroups": 60
+  },
+  "notes": [
+    "官网聚合描述保存在窗口说明中，不计为具体菜品。",
+    "GitHub 菜品不依据菜名自动绑定官方窗口。",
+    "GitHub 价格与营养统一作为历史参考。"
+  ]
+}
