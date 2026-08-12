@@ -35,7 +35,16 @@ import {
   type MilkTeaProduct,
 } from "@/types/milk-tea";
 
-const palette = ["#173f35", "#e8a54b", "#c96348", "#8eb7a7", "#945d63", "#d9c88c", "#49737a", "#b86d74"];
+const palette = [
+  "var(--color-forest)",
+  "var(--color-amber)",
+  "var(--color-coral-deep)",
+  "var(--color-wheel-sage)",
+  "var(--color-wheel-berry)",
+  "var(--color-wheel-gold)",
+  "var(--color-wheel-blue)",
+  "var(--color-wheel-rose)",
+];
 
 function pointOnCircle(angle: number, radius = 49) {
   const radians = ((angle - 90) * Math.PI) / 180;
@@ -251,7 +260,7 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
     const targetModulo = (pick.index * 137) % 360;
     const currentModulo = ((rotation % 360) + 360) % 360;
     const delta = (targetModulo - currentModulo + 360) % 360;
-    const duration = reducedMotion ? 80 : 3200;
+    const duration = reducedMotion ? 80 : 2400;
     setSelected(null);
     setSelectedConfiguration({ variantId: null, toppingIds: [] });
     setConfirmed(false);
@@ -300,10 +309,10 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
         <main className="flex min-w-0 flex-col">
           <div className="order-1 flex flex-wrap items-center justify-between gap-3" aria-label="选择方式">
             <ModeSwitch value={mode} onChange={setMode} options={[{ value: "products", label: "浏览产品" }, { value: "wheel", label: "转盘抽一杯" }]} />
-            <button type="button" onClick={() => setManagerOpen(true)} className="min-h-11 rounded-xl border border-stone-300 bg-white px-4 text-sm font-semibold text-[#173f35]">管理我的奶茶</button>
+            <button type="button" onClick={() => setManagerOpen(true)} className="min-h-11 rounded-xl border border-stone-300 bg-white px-4 text-sm font-semibold text-[var(--color-forest-brand)]">管理我的奶茶</button>
           </div>
 
-          <p className="order-2 mt-4 text-sm text-stone-500" aria-live="polite">当前共 <strong className="font-mono text-lg text-[#173f35]">{candidates.length}</strong> 款产品，每款只出现一次。</p>
+          <p className="order-2 mt-4 text-sm text-stone-500" aria-live="polite">当前共 <strong className="font-mono text-lg text-[var(--color-forest-brand)]">{candidates.length}</strong> 款产品，每款只出现一次。</p>
 
           <div
             id="resultPanel"
@@ -347,15 +356,15 @@ export function WheelExperience({ products }: { products: MilkTeaProduct[] }) {
                 onLoadMore={() => setVisibleCount((count) => count + 24)}
               />
             ) : wheelCandidates.length > 0 ? (
-              <section className="mt-5 rounded-[2.5rem] bg-[var(--paper-deep)] px-3 py-8 text-center shadow-[inset_0_0_0_1px_rgba(255,255,255,.55)] sm:px-8 sm:py-12">
+              <section className="mt-5 rounded-[2.5rem] bg-[var(--paper-deep)] px-3 py-8 text-center shadow-[var(--shadow-inset-soft)] sm:px-8 sm:py-12">
               <div className="relative mx-auto aspect-square w-full max-w-[540px]">
-                <div className="absolute left-1/2 top-[-12px] z-20 h-0 w-0 -translate-x-1/2 border-x-[16px] border-t-[30px] border-x-transparent border-t-[#c96348] drop-shadow" aria-hidden="true" />
-                <svg viewBox="0 0 100 100" role="img" aria-label={`从 ${wheelCandidates.length} 款产品中随机抽取的动画转盘`} className="size-full overflow-visible rounded-full border-[10px] border-white bg-white shadow-[0_24px_55px_rgba(70,60,40,0.18)]" style={{ transform: `rotate(${rotation}deg)`, transitionDuration: reducedMotion ? "80ms" : "3200ms", transitionTimingFunction: "cubic-bezier(.08,.72,.16,1)" }}>
-                  {Array.from({ length: wheelSegmentCount }, (_, index) => <path key={index} d={sectorPath(index, wheelSegmentCount)} fill={palette[index % palette.length]} stroke="rgba(255,255,255,.45)" strokeWidth={0.35} />)}
-                  <circle cx="50" cy="50" r="12" fill="#fffaf0" stroke="#173f35" strokeWidth="1.2" />
-                  <circle cx="50" cy="50" r="5" fill="#173f35" />
+                <div className="absolute left-1/2 top-[-12px] z-20 h-0 w-0 -translate-x-1/2 border-x-[16px] border-t-[30px] border-x-transparent border-t-[var(--color-coral-deep)] drop-shadow" aria-hidden="true" />
+                <svg viewBox="0 0 100 100" role="img" aria-label={`从 ${wheelCandidates.length} 款产品中随机抽取的动画转盘`} className="size-full overflow-visible rounded-full border-[10px] border-white bg-white shadow-[var(--shadow-wheel)]" style={{ transform: `rotate(${rotation}deg)`, transitionDuration: reducedMotion ? "80ms" : "var(--dur-wheel)", transitionTimingFunction: "var(--ease-out)" }}>
+                  {Array.from({ length: wheelSegmentCount }, (_, index) => <path key={index} d={sectorPath(index, wheelSegmentCount)} fill={palette[index % palette.length]} stroke="var(--color-wheel-line-soft)" strokeWidth={0.35} />)}
+                  <circle cx="50" cy="50" r="12" fill="var(--color-wheel-center)" stroke="var(--color-forest)" strokeWidth="1.2" />
+                  <circle cx="50" cy="50" r="5" fill="var(--color-forest)" />
                 </svg>
-                <button type="button" onClick={spin} disabled={isSpinning} className="absolute left-1/2 top-1/2 z-10 grid size-24 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full bg-[#173f35] font-serif text-xl font-bold text-white shadow-xl transition hover:scale-[1.03] disabled:cursor-wait disabled:opacity-80 sm:size-28">
+                <button type="button" onClick={spin} disabled={isSpinning} className="absolute left-1/2 top-1/2 z-10 grid size-24 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full bg-[var(--color-forest)] font-serif text-xl font-bold text-white shadow-xl transition hover:scale-[1.03] disabled:cursor-wait disabled:opacity-80 sm:size-28">
                   {isSpinning ? "转动中" : "转一下"}
                 </button>
               </div>

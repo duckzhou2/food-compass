@@ -103,18 +103,18 @@ export function MealDataManager({
 
   return (
     <div className="fixed inset-0 z-[80] grid place-items-end bg-stone-950/45 p-0 sm:place-items-center sm:p-5" role="presentation" onMouseDown={(event) => event.target === event.currentTarget && onClose()}>
-      <section role="dialog" aria-modal="true" aria-labelledby="meal-manager-title" className="max-h-[94svh] w-full overflow-hidden rounded-t-[2rem] bg-[#f8f5ee] shadow-2xl sm:max-w-5xl sm:rounded-[2rem]">
+      <section role="dialog" aria-modal="true" aria-labelledby="meal-manager-title" className="max-h-[94svh] w-full overflow-hidden rounded-t-[2rem] bg-[var(--color-paper-alt)] shadow-2xl sm:max-w-5xl sm:rounded-[2rem]">
         <header className="flex items-start justify-between gap-5 border-b border-stone-200 px-5 py-5 sm:px-7">
           <div>
-            <p className="text-xs font-semibold tracking-[0.16em] text-[#176b55]">MY MEAL DATA</p>
-            <h2 id="meal-manager-title" className="mt-1 font-serif text-2xl font-bold text-[#173f35]">管理我的食物</h2>
+            <p className="text-xs font-semibold tracking-[0.16em] text-[var(--color-jade-brand)]">MY MEAL DATA</p>
+            <h2 id="meal-manager-title" className="mt-1 font-serif text-2xl font-bold text-[var(--color-forest-brand)]">管理我的食物</h2>
           </div>
           <button type="button" onClick={onClose} className="min-h-11 rounded-xl border border-stone-300 bg-white px-4 text-sm font-semibold text-stone-700">关闭</button>
         </header>
 
         <div className="flex gap-1 overflow-x-auto border-b border-stone-200 px-4 py-2 sm:px-7" aria-label="数据管理分类">
           {tabs.map(([id, label, count]) => (
-            <button key={id} type="button" aria-pressed={tab === id} onClick={() => { setTab(id); setMessage(""); }} className={`min-h-11 whitespace-nowrap rounded-xl px-3 text-sm font-semibold ${tab === id ? "bg-[#173f35] text-white" : "text-stone-600 hover:bg-white"}`}>
+            <button key={id} type="button" aria-pressed={tab === id} onClick={() => { setTab(id); setMessage(""); }} className={`min-h-11 whitespace-nowrap rounded-xl px-3 text-sm font-semibold ${tab === id ? "bg-[var(--color-forest-brand)] text-white" : "text-stone-600 hover:bg-white"}`}>
               {label}{count === null ? "" : ` ${count}`}
             </button>
           ))}
@@ -172,8 +172,8 @@ export function MealDataManager({
 
           {tab === "transfer" && (
             <div className="grid gap-6 sm:grid-cols-2">
-              <section className="rounded-3xl border border-stone-200 bg-white p-5"><h3 className="font-serif text-xl font-bold text-stone-900">导出个人数据</h3><p className="mt-3 text-sm leading-6 text-stone-500">导出自定义食物、收藏、排除、历史和设置。内置 459 条食物不会重复写入文件。</p><button type="button" onClick={download} className="mt-5 min-h-11 rounded-xl bg-[#173f35] px-5 text-sm font-semibold text-white">导出 JSON</button></section>
-              <section className="rounded-3xl border border-stone-200 bg-white p-5"><h3 className="font-serif text-xl font-bold text-stone-900">导入个人数据</h3><div className="mt-4 flex gap-2">{(["merge", "replace"] as const).map((mode) => <button key={mode} type="button" aria-pressed={importMode === mode} onClick={() => setImportMode(mode)} className={`min-h-11 rounded-xl px-4 text-sm ${importMode === mode ? "bg-[#173f35] text-white" : "border border-stone-300"}`}>{mode === "merge" ? "合并" : "覆盖"}</button>)}</div><label className="mt-5 block"><span className="block text-sm font-semibold text-stone-700">选择 JSON 文件</span><input type="file" accept="application/json,.json" onChange={(event) => void importFile(event.target.files?.[0])} className="mt-2 block w-full text-sm" /></label><p className="mt-3 text-xs leading-5 text-stone-500">覆盖只影响个人数据，不会修改内置食物。</p></section>
+              <section className="rounded-3xl border border-stone-200 bg-white p-5"><h3 className="font-serif text-xl font-bold text-stone-900">导出个人数据</h3><p className="mt-3 text-sm leading-6 text-stone-500">导出自定义食物、收藏、排除、历史和设置。内置 459 条食物不会重复写入文件。</p><button type="button" onClick={download} className="mt-5 min-h-11 rounded-xl bg-[var(--color-forest-brand)] px-5 text-sm font-semibold text-white">导出 JSON</button></section>
+              <section className="rounded-3xl border border-stone-200 bg-white p-5"><h3 className="font-serif text-xl font-bold text-stone-900">导入个人数据</h3><div className="mt-4 flex gap-2">{(["merge", "replace"] as const).map((mode) => <button key={mode} type="button" aria-pressed={importMode === mode} onClick={() => setImportMode(mode)} className={`min-h-11 rounded-xl px-4 text-sm ${importMode === mode ? "bg-[var(--color-forest-brand)] text-white" : "border border-stone-300"}`}>{mode === "merge" ? "合并" : "覆盖"}</button>)}</div><label className="mt-5 block"><span className="block text-sm font-semibold text-stone-700">选择 JSON 文件</span><input type="file" accept="application/json,.json" onChange={(event) => void importFile(event.target.files?.[0])} className="mt-2 block w-full text-sm" /></label><p className="mt-3 text-xs leading-5 text-stone-500">覆盖只影响个人数据，不会修改内置食物。</p></section>
             </div>
           )}
         </div>
@@ -216,9 +216,9 @@ function MealFoodForm({ initial, onSave, onCancel }: { initial: MealFood | null;
       <CheckGroup title="饱腹程度" values={fullnessTags} selected={selectedFullness} labels={fullnessLabels} onChange={setSelectedFullness} />
       <CheckGroup title="适用场景" values={sceneTags} selected={selectedScenes} labels={sceneLabels} onChange={setSelectedScenes} />
       <CheckGroup title="常见食材 / 形态标签" values={excludeTags.filter((tag) => tag !== "mala" && tag !== "vegetarian_friendly")} selected={selectedExcludes} labels={excludeLabels} onChange={setSelectedExcludes} />
-      <label className="mt-4 flex min-h-11 items-center gap-3 text-sm"><input type="checkbox" checked={vegetarian} onChange={(event) => setVegetarian(event.target.checked)} className="size-4 accent-[#176b55]" />素食友好（仅作一般参考）</label>
+      <label className="mt-4 flex min-h-11 items-center gap-3 text-sm"><input type="checkbox" checked={vegetarian} onChange={(event) => setVegetarian(event.target.checked)} className="size-4 accent-[var(--color-jade-brand)]" />素食友好（仅作一般参考）</label>
       <label className="mt-4 block"><span className="text-sm font-semibold text-stone-700">位置或备注</span><textarea value={note} onChange={(event) => setNote(event.target.value)} rows={3} className="mt-2 w-full rounded-xl border border-stone-300 p-3" /></label>
-      <div className="mt-5 flex gap-2"><button type="submit" className="min-h-11 rounded-xl bg-[#173f35] px-5 text-sm font-semibold text-white">{initial ? "保存修改" : "添加"}</button>{initial && <button type="button" onClick={onCancel} className="min-h-11 rounded-xl border border-stone-300 px-4 text-sm">取消</button>}</div>
+      <div className="mt-5 flex gap-2"><button type="submit" className="min-h-11 rounded-xl bg-[var(--color-forest-brand)] px-5 text-sm font-semibold text-white">{initial ? "保存修改" : "添加"}</button>{initial && <button type="button" onClick={onCancel} className="min-h-11 rounded-xl border border-stone-300 px-4 text-sm">取消</button>}</div>
     </form>
   );
 }
@@ -228,7 +228,7 @@ function SelectField({ label, value, onChange, options }: { label: string; value
 }
 
 function CheckGroup<T extends string>({ title, values, selected, labels, onChange }: { title: string; values: readonly T[]; selected: T[]; labels: Record<T, string>; onChange: (value: T[]) => void }) {
-  return <fieldset className="mt-5"><legend className="text-sm font-semibold text-stone-700">{title}</legend><div className="mt-2 flex flex-wrap gap-2">{values.map((value) => <label key={value} className={`flex min-h-11 cursor-pointer items-center gap-2 rounded-xl border px-3 text-sm ${selected.includes(value) ? "border-[#176b55] bg-emerald-50" : "border-stone-200"}`}><input type="checkbox" checked={selected.includes(value)} onChange={() => onChange(selected.includes(value) ? selected.filter((item) => item !== value) : [...selected, value])} className="size-4 accent-[#176b55]" />{labels[value]}</label>)}</div></fieldset>;
+  return <fieldset className="mt-5"><legend className="text-sm font-semibold text-stone-700">{title}</legend><div className="mt-2 flex flex-wrap gap-2">{values.map((value) => <label key={value} className={`flex min-h-11 cursor-pointer items-center gap-2 rounded-xl border px-3 text-sm ${selected.includes(value) ? "border-[var(--color-jade-brand)] bg-emerald-50" : "border-stone-200"}`}><input type="checkbox" checked={selected.includes(value)} onChange={() => onChange(selected.includes(value) ? selected.filter((item) => item !== value) : [...selected, value])} className="size-4 accent-[var(--color-jade-brand)]" />{labels[value]}</label>)}</div></fieldset>;
 }
 
 function FoodReferenceList({ ids, byId, empty, actionLabel, onAction, onSelect }: { ids: string[]; byId: Map<string, MealFood>; empty: string; actionLabel: string; onAction: (id: string) => void; onSelect?: (food: MealFood) => void }) {

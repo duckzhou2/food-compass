@@ -15,10 +15,10 @@ const moduleDescriptions: Record<SiteModuleId, string> = {
 };
 
 const toneClasses: Record<SiteModuleTone, { surface: string; eyebrow: string; button: string }> = {
-  coral: { surface: "bg-[#fff1ed]", eyebrow: "text-[var(--coral)]", button: "bg-[var(--coral)] text-white" },
-  forest: { surface: "bg-[var(--forest)] text-white", eyebrow: "text-[var(--gold-light)]", button: "bg-[var(--coral)] text-white" },
-  amber: { surface: "bg-[#fff5dc]", eyebrow: "text-[var(--amber-dark)]", button: "bg-[var(--amber)] text-[var(--forest-deep)]" },
-  jade: { surface: "bg-[#eaf7f2]", eyebrow: "text-[var(--jade)]", button: "bg-[var(--jade)] text-white" },
+  coral: { surface: "bg-[var(--color-surface-coral)]", eyebrow: "text-[var(--color-coral)]", button: "bg-[var(--color-coral)] text-white" },
+  forest: { surface: "bg-[var(--color-forest)] text-white", eyebrow: "text-[var(--color-gold-light)]", button: "bg-[var(--color-coral)] text-white" },
+  amber: { surface: "bg-[var(--color-surface-amber)]", eyebrow: "text-[var(--color-amber-dark)]", button: "bg-[var(--color-amber)] text-[var(--color-forest-deep)]" },
+  jade: { surface: "bg-[var(--color-surface-jade)]", eyebrow: "text-[var(--color-jade)]", button: "bg-[var(--color-jade)] text-white" },
 };
 
 export default function HomePage() {
@@ -39,7 +39,7 @@ export default function HomePage() {
               不知道吃什么、喝什么时，不必反复纠结。按条件筛一下，或者直接交给随机。
             </p>
           </div>
-          <div className="relative min-h-[300px] overflow-hidden rounded-[2.5rem] bg-white shadow-[0_28px_80px_rgba(14,77,64,.12)] sm:min-h-[420px] lg:min-h-[500px]">
+          <div className="relative min-h-[300px] overflow-hidden rounded-[2.5rem] bg-[var(--color-paper)] shadow-[var(--shadow-hero)] sm:min-h-[420px] lg:min-h-[500px]">
             <Image
               src="/brand/hero-food.webp"
               alt="一碗搭配蔬菜和鸡蛋的米饭与一杯珍珠奶茶"
@@ -57,11 +57,11 @@ export default function HomePage() {
             return (
               <article
                 key={module.id}
-                className={`group relative flex min-h-[410px] flex-col overflow-hidden rounded-[2rem] border border-black/[0.05] p-6 shadow-[0_20px_55px_rgba(70,60,40,.09)] ${tone.surface}`}
+                className={`group relative flex min-h-[410px] flex-col overflow-hidden rounded-[2rem] border border-black/[0.05] p-6 shadow-[var(--shadow-card)] ${tone.surface}`}
               >
                 <div className="relative z-10">
                   <p className={`text-xs font-bold tracking-[0.18em] ${tone.eyebrow}`}>{module.eyebrow}</p>
-                  <h2 className={`mt-3 font-serif text-3xl font-bold ${module.tone === "forest" ? "text-white" : "text-[var(--forest)]"}`}>
+                  <h2 className={`mt-3 font-serif text-3xl font-bold ${module.tone === "forest" ? "text-white" : "text-[var(--color-forest)]"}`}>
                     {module.label}
                   </h2>
                   <p className={`mt-3 text-sm leading-6 ${module.tone === "forest" ? "text-emerald-50/80" : "text-stone-600"}`}>
@@ -81,7 +81,7 @@ export default function HomePage() {
                     sizes="(min-width: 1280px) 25vw, (min-width: 640px) 50vw, 100vw"
                     className="object-cover transition duration-500 group-hover:scale-[1.03]"
                   />
-                  <div className={`absolute inset-x-0 top-0 h-16 bg-gradient-to-b ${module.tone === "forest" ? "from-[var(--forest)]" : module.tone === "coral" ? "from-[#fff1ed]" : module.tone === "amber" ? "from-[#fff5dc]" : "from-[#eaf7f2]"} to-transparent`} />
+                  <div className={`absolute inset-x-0 top-0 h-16 bg-gradient-to-b ${module.tone === "forest" ? "from-[var(--color-forest)]" : module.tone === "coral" ? "from-[var(--color-surface-coral)]" : module.tone === "amber" ? "from-[var(--color-surface-amber)]" : "from-[var(--color-surface-jade)]"} to-transparent`} />
                 </div>
               </article>
             );

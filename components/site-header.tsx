@@ -11,8 +11,9 @@ export function SiteHeader() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 border-b border-stone-200/75 bg-[var(--paper)]/95 backdrop-blur-xl">
-      <div className="mx-auto flex min-h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:min-h-[4.5rem] lg:px-8">
+    <header className="sticky top-0 z-50 bg-[var(--paper)]/80 px-2 pt-2 sm:px-4 lg:px-6">
+      <div className="mx-auto max-w-7xl rounded-[1.5rem] border border-stone-200/75 bg-[var(--paper)] shadow-[var(--shadow-panel)]">
+        <div className="flex min-h-16 items-center justify-between px-3 sm:px-5 lg:min-h-[4.5rem] lg:px-6">
         <Link href="/" className="flex items-center gap-3" aria-label="食物罗盘首页">
           <span className="grid size-10 place-items-center rounded-full bg-[var(--forest)] text-[var(--gold-light)] shadow-sm">
             <BrandMark />
@@ -50,24 +51,25 @@ export function SiteHeader() {
             {open ? <path d="m6 6 12 12M18 6 6 18" /> : <path d="M5 7h14M5 12h14M5 17h14" />}
           </svg>
         </button>
+        </div>
+        {open && (
+          <nav aria-label="移动端主导航" className="border-t border-stone-200 px-4 py-3 lg:hidden">
+            <div className="mx-auto grid max-w-7xl grid-cols-2 gap-2 sm:grid-cols-4">
+              {primaryNavigation.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  onClick={() => setOpen(false)}
+                  aria-current={pathname === link.href ? "page" : undefined}
+                  className="min-h-11 rounded-xl px-3 py-3 text-sm font-medium text-stone-700 transition hover:bg-white aria-[current=page]:bg-[var(--forest)] aria-[current=page]:text-white"
+                >
+                  {link.label}
+                </Link>
+              ))}
+            </div>
+          </nav>
+        )}
       </div>
-      {open && (
-        <nav aria-label="移动端主导航" className="border-t border-stone-200 bg-[var(--paper)] px-4 py-3 shadow-xl lg:hidden">
-          <div className="mx-auto grid max-w-7xl grid-cols-2 gap-2 sm:grid-cols-4">
-            {primaryNavigation.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                onClick={() => setOpen(false)}
-                aria-current={pathname === link.href ? "page" : undefined}
-                className="min-h-11 rounded-xl px-3 py-3 text-sm font-medium text-stone-700 transition hover:bg-white aria-[current=page]:bg-[var(--forest)] aria-[current=page]:text-white"
-              >
-                {link.label}
-              </Link>
-            ))}
-          </div>
-        </nav>
-      )}
     </header>
   );
 }

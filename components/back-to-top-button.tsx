@@ -37,7 +37,7 @@ export function BackToTopButton() {
       aria-hidden={!visible}
       tabIndex={visible ? 0 : -1}
       onClick={scrollToTop}
-      className={`fixed z-40 grid size-12 place-items-center rounded-full border border-[#d8d2c7] bg-[#173f35] text-xl font-bold text-[#f8f5ee] shadow-lg transition duration-200 hover:-translate-y-0.5 hover:bg-[#0e4d3d] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#e8a54b] focus-visible:ring-offset-2 ${visible ? "visible opacity-100" : "pointer-events-none invisible opacity-0"}`}
+      className={`fixed z-40 grid size-12 place-items-center rounded-full border border-[var(--color-border-strong)] bg-[var(--color-forest-brand)] text-xl font-bold text-[var(--color-paper-alt)] shadow-lg transition duration-200 hover:-translate-y-0.5 hover:bg-[var(--color-forest-hover)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-amber-highlight)] focus-visible:ring-offset-2 ${visible ? "visible opacity-100" : "pointer-events-none invisible opacity-0"}`}
       style={{
         right: "max(1rem, calc(env(safe-area-inset-right) + 0.875rem))",
         bottom: "max(1rem, calc(env(safe-area-inset-bottom) + 0.875rem))",

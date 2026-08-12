@@ -40,7 +40,7 @@ export function FilterShell({
   children: ReactNode;
 }) {
   return (
-    <aside className="h-fit min-w-0 rounded-[1.75rem] border border-[var(--line)] bg-white/85 p-4 shadow-[0_16px_45px_rgba(70,60,40,.06)] lg:sticky lg:top-24">
+    <aside className="h-fit min-w-0 rounded-[1.75rem] border border-[var(--line)] bg-white/85 p-4 shadow-[var(--shadow-panel)] lg:sticky lg:top-24">
       <button
         type="button"
         aria-expanded={open}

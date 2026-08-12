@@ -1,18 +1,19 @@
+@import "../tokens.css";
 @import "tailwindcss";
 
 :root {
-  --paper: #fffaf4;
-  --paper-deep: #f4eee4;
-  --ink: #1d241f;
-  --forest: #0e4d40;
-  --forest-deep: #083b33;
-  --jade: #178267;
-  --mint: #dff4e8;
-  --amber: #f2a72f;
-  --amber-dark: #9a5c00;
-  --coral: #ef6246;
-  --gold-light: #f8d97c;
-  --line: #e8e0d6;
+  --paper: var(--color-paper);
+  --paper-deep: var(--color-paper-deep);
+  --ink: var(--color-ink);
+  --forest: var(--color-forest);
+  --forest-deep: var(--color-forest-deep);
+  --jade: var(--color-jade);
+  --mint: var(--color-mint);
+  --amber: var(--color-amber);
+  --amber-dark: var(--color-amber-dark);
+  --coral: var(--color-coral);
+  --gold-light: var(--color-gold-light);
+  --line: var(--color-line);
 }
 
 * {
@@ -21,15 +22,18 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: clip;
 }
 
 body {
   margin: 0;
   background:
-    radial-gradient(circle at 7% 2%, rgba(242, 167, 47, 0.12), transparent 25rem),
-    radial-gradient(circle at 94% 14%, rgba(23, 130, 103, 0.1), transparent 30rem),
+    radial-gradient(circle at 7% 2%, var(--color-glow-amber), transparent 25rem),
+    radial-gradient(circle at 94% 14%, var(--color-glow-jade), transparent 30rem),
     var(--paper);
   color: var(--ink);
+  font-family: var(--font-body);
+  overflow-x: clip;
 }
 
 button,
@@ -49,12 +53,28 @@ summary {
 
 button,
 a {
-  transition-duration: 180ms;
+  transition-property: color, background-color, border-color, box-shadow, opacity, transform;
+  transition-duration: var(--dur-short);
+  transition-timing-function: var(--ease-out);
 }
 
 :focus-visible {
-  outline: 3px solid rgba(242, 167, 47, 0.55);
+  outline: 3px solid var(--color-focus);
   outline-offset: 3px;
+}
+
+.font-serif {
+  font-family: var(--font-display);
+  font-style: normal;
+}
+
+.font-sans {
+  font-family: var(--font-body);
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
 }
 
 .page-intro {
@@ -69,14 +89,14 @@ a {
   width: 24rem;
   height: 12rem;
   border-radius: 999px;
-  background: radial-gradient(circle, rgba(223, 244, 232, 0.8), transparent 70%);
+  background: radial-gradient(circle, color-mix(in oklch, var(--color-mint) 80%, transparent), transparent 70%);
   content: "";
   pointer-events: none;
   z-index: -1;
 }
 
 ::selection {
-  background: rgba(232, 165, 75, 0.35);
+  background: var(--color-selection);
 }
 
 @keyframes result-reveal {
@@ -91,7 +111,7 @@ a {
 }
 
 .result-reveal {
-  animation: result-reveal 520ms cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation: result-reveal var(--dur-reveal) var(--ease-out) both;
 }
 
 @media (prefers-reduced-motion: reduce) {

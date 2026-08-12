@@ -80,13 +80,13 @@ export function MilkTeaDataManager({
 
   return (
     <div className="fixed inset-0 z-[80] grid place-items-end bg-stone-950/45 sm:place-items-center sm:p-5" role="presentation" onMouseDown={(event) => event.target === event.currentTarget && onClose()}>
-      <section role="dialog" aria-modal="true" aria-labelledby="milk-tea-manager-title" className="max-h-[94svh] w-full overflow-hidden rounded-t-[2rem] bg-[#f8f5ee] shadow-2xl sm:max-w-4xl sm:rounded-[2rem]">
+      <section role="dialog" aria-modal="true" aria-labelledby="milk-tea-manager-title" className="max-h-[94svh] w-full overflow-hidden rounded-t-[2rem] bg-[var(--color-paper-alt)] shadow-2xl sm:max-w-4xl sm:rounded-[2rem]">
         <header className="flex items-start justify-between gap-5 border-b border-stone-200 px-5 py-5 sm:px-7">
-          <div><p className="text-xs font-semibold tracking-[0.16em] text-[#176b55]">MY MILK TEA DATA</p><h2 id="milk-tea-manager-title" className="mt-1 font-serif text-2xl font-bold text-[#173f35]">管理我的奶茶</h2></div>
+          <div><p className="text-xs font-semibold tracking-[0.16em] text-[var(--color-jade-brand)]">MY MILK TEA DATA</p><h2 id="milk-tea-manager-title" className="mt-1 font-serif text-2xl font-bold text-[var(--color-forest-brand)]">管理我的奶茶</h2></div>
           <button type="button" onClick={onClose} className="min-h-11 rounded-xl border border-stone-300 bg-white px-4 text-sm font-semibold text-stone-700">关闭</button>
         </header>
         <div className="flex gap-1 overflow-x-auto border-b border-stone-200 px-4 py-2 sm:px-7" aria-label="奶茶数据管理分类">
-          {tabs.map(([id, label, count]) => <button key={id} type="button" aria-pressed={tab === id} onClick={() => { setTab(id); setMessage(""); }} className={`min-h-11 whitespace-nowrap rounded-xl px-3 text-sm font-semibold ${tab === id ? "bg-[#173f35] text-white" : "text-stone-600 hover:bg-white"}`}>{label}{count === null ? "" : ` ${count}`}</button>)}
+          {tabs.map(([id, label, count]) => <button key={id} type="button" aria-pressed={tab === id} onClick={() => { setTab(id); setMessage(""); }} className={`min-h-11 whitespace-nowrap rounded-xl px-3 text-sm font-semibold ${tab === id ? "bg-[var(--color-forest-brand)] text-white" : "text-stone-600 hover:bg-white"}`}>{label}{count === null ? "" : ` ${count}`}</button>)}
         </div>
         <div className="max-h-[calc(94svh-145px)] overflow-y-auto px-5 py-6 sm:px-7">
           {message && <p className="mb-5 rounded-2xl bg-amber-50 px-4 py-3 text-sm text-amber-900" role="status">{message}</p>}
@@ -103,8 +103,8 @@ export function MilkTeaDataManager({
           )}
           {tab === "transfer" && (
             <div className="grid gap-6 sm:grid-cols-2">
-              <section className="rounded-3xl border border-stone-200 bg-white p-5"><h3 className="font-serif text-xl font-bold text-stone-900">导出个人数据</h3><p className="mt-3 text-sm leading-6 text-stone-500">导出收藏、排除、历史和设置，不包含内置饮品数据。</p><button type="button" onClick={download} className="mt-5 min-h-11 rounded-xl bg-[#173f35] px-5 text-sm font-semibold text-white">导出 JSON</button></section>
-              <section className="rounded-3xl border border-stone-200 bg-white p-5"><h3 className="font-serif text-xl font-bold text-stone-900">导入个人数据</h3><div className="mt-4 flex gap-2">{(["merge", "replace"] as const).map((mode) => <button key={mode} type="button" aria-pressed={importMode === mode} onClick={() => setImportMode(mode)} className={`min-h-11 rounded-xl px-4 text-sm ${importMode === mode ? "bg-[#173f35] text-white" : "border border-stone-300"}`}>{mode === "merge" ? "合并" : "覆盖"}</button>)}</div><label className="mt-5 block"><span className="block text-sm font-semibold text-stone-700">选择 JSON 文件</span><input type="file" accept="application/json,.json" onChange={(event) => void importFile(event.target.files?.[0])} className="mt-2 block w-full text-sm" /></label><p className="mt-3 text-xs leading-5 text-stone-500">覆盖仅影响个人数据，未知产品不会进入候选池。</p></section>
+              <section className="rounded-3xl border border-stone-200 bg-white p-5"><h3 className="font-serif text-xl font-bold text-stone-900">导出个人数据</h3><p className="mt-3 text-sm leading-6 text-stone-500">导出收藏、排除、历史和设置，不包含内置饮品数据。</p><button type="button" onClick={download} className="mt-5 min-h-11 rounded-xl bg-[var(--color-forest-brand)] px-5 text-sm font-semibold text-white">导出 JSON</button></section>
+              <section className="rounded-3xl border border-stone-200 bg-white p-5"><h3 className="font-serif text-xl font-bold text-stone-900">导入个人数据</h3><div className="mt-4 flex gap-2">{(["merge", "replace"] as const).map((mode) => <button key={mode} type="button" aria-pressed={importMode === mode} onClick={() => setImportMode(mode)} className={`min-h-11 rounded-xl px-4 text-sm ${importMode === mode ? "bg-[var(--color-forest-brand)] text-white" : "border border-stone-300"}`}>{mode === "merge" ? "合并" : "覆盖"}</button>)}</div><label className="mt-5 block"><span className="block text-sm font-semibold text-stone-700">选择 JSON 文件</span><input type="file" accept="application/json,.json" onChange={(event) => void importFile(event.target.files?.[0])} className="mt-2 block w-full text-sm" /></label><p className="mt-3 text-xs leading-5 text-stone-500">覆盖仅影响个人数据，未知产品不会进入候选池。</p></section>
             </div>
           )}
         </div>

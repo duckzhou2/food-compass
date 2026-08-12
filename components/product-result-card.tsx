@@ -94,11 +94,11 @@ export function ProductResultCard({
   };
 
   return (
-    <article className="result-reveal overflow-hidden rounded-[2rem] bg-white shadow-[0_24px_70px_rgba(50,45,35,0.13)]">
-      <div className="relative overflow-hidden bg-[#173f35] px-5 pb-7 pt-6 text-white sm:px-9 sm:pb-9 sm:pt-8">
+    <article className="result-reveal overflow-hidden rounded-[2rem] bg-[var(--color-paper)] shadow-[var(--shadow-card)]">
+      <div className="relative overflow-hidden bg-[var(--color-forest)] px-5 pb-7 pt-6 text-white sm:px-9 sm:pb-9 sm:pt-8">
         <div className="absolute -right-16 -top-24 size-64 rounded-full border-[40px] border-white/[0.04]" />
         <div className="relative min-w-0">
-          <p className="text-xs font-semibold tracking-[0.2em] text-[#f6cf72]">当前选择</p>
+          <p className="text-xs font-semibold tracking-[0.2em] text-[var(--color-gold-light)]">当前选择</p>
           <p className="mt-5 text-sm tracking-[0.16em] text-emerald-100">{product.brandName}</p>
           <h2 className="mt-1 break-words font-serif text-3xl font-bold leading-tight sm:text-5xl">
             {product.productName}
@@ -116,7 +116,7 @@ export function ProductResultCard({
         <section aria-labelledby="specification-heading">
           <div className="flex flex-wrap items-end justify-between gap-2">
             <div>
-              <p className="text-xs font-semibold tracking-[0.16em] text-[#176b55]">规格联动</p>
+              <p className="text-xs font-semibold tracking-[0.16em] text-[var(--color-jade)]">规格联动</p>
               <h3 id="specification-heading" className="mt-1 font-serif text-2xl font-bold text-stone-900">选择已有热量记录的规格</h3>
             </div>
             <span className="text-xs text-stone-400">共 {product.variants.length} 条规格记录</span>
@@ -138,8 +138,8 @@ export function ProductResultCard({
                         onClick={() => setSelection((current) => updateSelection(product, current, field, option))}
                         className={`min-h-11 max-w-full break-words rounded-xl border px-3 py-2 text-sm transition ${
                           selection[field] === option
-                            ? "border-[#173f35] bg-[#173f35] text-white"
-                            : "border-stone-200 bg-[#fbfaf6] text-stone-700 hover:border-stone-400"
+                            ? "border-[var(--color-forest)] bg-[var(--color-forest)] text-white"
+                            : "border-stone-200 bg-[var(--color-surface-soft)] text-stone-700 hover:border-stone-400"
                         }`}
                       >
                         {option}
@@ -159,7 +159,7 @@ export function ProductResultCard({
 
         <section className="border-t border-stone-200 pt-7" aria-labelledby="toppings-heading">
           <div>
-            <p className="text-xs font-semibold tracking-[0.16em] text-[#176b55]">额外小料</p>
+            <p className="text-xs font-semibold tracking-[0.16em] text-[var(--color-jade)]">额外小料</p>
             <h3 id="toppings-heading" className="mt-1 font-serif text-2xl font-bold text-stone-900">额外添加小料</h3>
             <p className="mt-2 text-sm leading-6 text-stone-500">以下为该品牌常见小料，是否支持添加以门店实际菜单为准。</p>
           </div>
@@ -172,14 +172,14 @@ export function ProductResultCard({
                   <label
                     key={topping.toppingId}
                     className={`flex min-w-0 cursor-pointer items-start gap-3 rounded-2xl border p-3 transition ${
-                      checked ? "border-[#176b55] bg-emerald-50" : "border-stone-200 bg-[#fbfaf6]"
+                      checked ? "border-[var(--color-jade)] bg-[var(--color-surface-jade)]" : "border-stone-200 bg-[var(--color-surface-soft)]"
                     }`}
                   >
                     <input
                       type="checkbox"
                       checked={checked}
                       onChange={() => toggleTopping(topping.toppingId)}
-                      className="mt-1 size-4 accent-[#176b55]"
+                    className="mt-1 size-4 accent-[var(--color-jade)]"
                     />
                     <span className="min-w-0">
                       <span className="block break-words text-sm font-semibold text-stone-800">{topping.name}</span>
@@ -199,9 +199,9 @@ export function ProductResultCard({
           )}
         </section>
 
-        <section className="grid gap-5 rounded-[1.5rem] bg-[#f5f1e8] p-5 sm:grid-cols-[1fr_auto] sm:items-end sm:p-6" aria-labelledby="calorie-result-heading">
+        <section className="grid gap-5 rounded-[1.5rem] bg-[var(--color-surface-warm)] p-5 sm:grid-cols-[1fr_auto] sm:items-end sm:p-6" aria-labelledby="calorie-result-heading">
           <div className="min-w-0">
-            <p className="text-xs font-semibold tracking-[0.16em] text-[#176b55]">热量计算</p>
+            <p className="text-xs font-semibold tracking-[0.16em] text-[var(--color-jade)]">热量计算</p>
             <h3 id="calorie-result-heading" className="mt-1 font-serif text-2xl font-bold text-stone-900">本杯参考热量</h3>
             <dl className="mt-4 space-y-2 text-sm">
               <div className="flex flex-wrap justify-between gap-3">
@@ -227,7 +227,7 @@ export function ProductResultCard({
               )}
             </dl>
           </div>
-          <p className="break-words font-mono text-3xl font-bold text-[#c96348] sm:text-right sm:text-4xl">
+          <p className="break-words font-mono text-3xl font-bold text-[var(--color-coral-deep)] sm:text-right sm:text-4xl">
             {formatCalorieRange(totalCalories)}
           </p>
           <p className="text-xs leading-5 text-stone-500 sm:col-span-2">
@@ -246,7 +246,7 @@ export function ProductResultCard({
                     toppingIds: selectedToppingIds,
                   })
                 }
-                className="min-h-12 rounded-xl bg-[#173f35] px-4 font-semibold text-white"
+                className="min-h-12 rounded-xl bg-[var(--color-forest)] px-4 font-semibold text-white"
               >
                 {actions.confirmed ? "已记录这杯" : "就喝这个"}
               </button>
@@ -254,12 +254,12 @@ export function ProductResultCard({
               <button type="button" onClick={actions.onSessionExclude} className="min-h-12 rounded-xl border border-stone-300 bg-white px-4 font-semibold text-stone-700">本轮排除</button>
             </div>
             <div className="mt-3 grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
-              <button type="button" onClick={actions.onSameCategory} className="min-h-11 rounded-xl bg-[#f5f1e8] px-3 text-sm font-semibold text-stone-700">换个同类</button>
-              <button type="button" onClick={actions.onDifferentBrand} className="min-h-11 rounded-xl bg-[#f5f1e8] px-3 text-sm font-semibold text-stone-700">换个品牌</button>
-              <button type="button" aria-pressed={actions.favorite} onClick={actions.onToggleFavorite} className="min-h-11 rounded-xl bg-[#f5f1e8] px-3 text-sm font-semibold text-stone-700">{actions.favorite ? "取消收藏" : "收藏"}</button>
+              <button type="button" onClick={actions.onSameCategory} className="min-h-11 rounded-xl bg-[var(--color-surface-warm)] px-3 text-sm font-semibold text-stone-700">换个同类</button>
+              <button type="button" onClick={actions.onDifferentBrand} className="min-h-11 rounded-xl bg-[var(--color-surface-warm)] px-3 text-sm font-semibold text-stone-700">换个品牌</button>
+              <button type="button" aria-pressed={actions.favorite} onClick={actions.onToggleFavorite} className="min-h-11 rounded-xl bg-[var(--color-surface-warm)] px-3 text-sm font-semibold text-stone-700">{actions.favorite ? "取消收藏" : "收藏"}</button>
               <button type="button" onClick={actions.onPermanentExclude} className="min-h-11 rounded-xl bg-red-50 px-3 text-sm font-semibold text-red-700">永久排除</button>
             </div>
-            <p className="mt-3 min-h-5 text-sm text-[#176b55]" role="status">{actions.status}</p>
+            <p className="mt-3 min-h-5 text-sm text-[var(--color-jade-brand)]" role="status">{actions.status}</p>
           </section>
         )}
       </div>

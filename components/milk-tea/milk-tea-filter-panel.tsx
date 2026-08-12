@@ -58,7 +58,7 @@ export function MilkTeaFilterPanel({
             value={filters.query}
             onChange={(event) => onUpdate("query", event.target.value)}
             placeholder="输入饮品名称"
-            className="mt-2 min-h-11 w-full rounded-xl border border-stone-200 bg-[#fffdf9] px-3 text-sm outline-none focus:border-[var(--jade)]"
+            className="mt-2 min-h-11 w-full rounded-xl border border-stone-200 bg-[var(--color-paper-bright)] px-3 text-sm outline-none focus:border-[var(--jade)]"
           />
         </label>
 
