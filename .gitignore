@@ -10,3 +10,15 @@ artifacts/
 *.log
 *.tsbuildinfo
 .DS_Store
+
+# Local coding-agent state
+.codex/
+
+# Local-only historical snapshots and source materials (kept on disk, not product source)
+offline/*备份*.html
+/食物罗盘-离线版.html
+/食物罗盘-离线版_新增外卖模块前备份_*.html
+/食物罗盘_外卖板块_Codex最终交付_v1.0.json
+/backups/
+/资料源/
+
